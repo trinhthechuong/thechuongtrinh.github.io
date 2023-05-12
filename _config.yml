@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Image/Avatar.png"
+  bio              : "MS. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
