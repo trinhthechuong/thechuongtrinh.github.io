@@ -5,14 +5,13 @@ collection: portfolio
 ---
 
 
-##Automated Validation pharmacophore model
+## Automated Validation pharmacophore model
 - This package use results from MOE pharmacophore model screening (*txt, *csv)
 - Automation select best pharmacophore model to optimize
 ![screenshot](.images/Molph4.png)
+
 ## Requirements
-
 This module requires the following modules:
-
 - [RDkit](https://www.rdkit.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
@@ -20,7 +19,6 @@ This module requires the following modules:
 Clone this repository to use
 
 ## Download the data and pretrained model
-
 Use the following onedrive link:
 
     Update...
@@ -33,7 +31,6 @@ Finally the folder structure should look like this:
     Molph4 (project root)
     |__  README.md
     |__  ph4
-    |__  prog_vae
     |__  Data
     |__  |__ data... (downloaded from onedrive)
     |    |__ results..
