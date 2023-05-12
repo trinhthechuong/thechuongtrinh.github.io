@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "Image/Avatar.png"
+  avatar           : "images/Avatar.png"
   bio              : "MS. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
   location         : "Location"
   employer         :
