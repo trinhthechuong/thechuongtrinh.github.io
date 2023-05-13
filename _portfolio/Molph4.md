@@ -1,6 +1,6 @@
 ---
 title: "Molph4"
-excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4/Molph4.png'>"
+excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4.png'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,9 @@ collection: portfolio
 ## Automated Validation pharmacophore model
 - This package use results from MOE pharmacophore model screening (*txt, *csv)
 - Automation select best pharmacophore model to optimize
-<br/><img src='/images/Molph4/Molph4.png'>
+
+![screenshot](./images/Molph4/Molph4.png)
+
 
 ## Requirements
 This module requires the following modules:
