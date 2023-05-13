@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2018 - now: Research Assistant - Organic Chemistry Department
+* **2018 - now: Research Assistant - Organic Chemistry Department**
   * **Methodology developemt**
     * *MolUtil*: molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
     * *mlqsar*: QSAR-machine learning pipeline development incorporate with post hoc Wilcoxon for decision making
@@ -34,7 +34,7 @@ Work experience
     * *Tubulin*: prediction of protein-ligand interaction using graph neural networks; molecular dynamics (Gromacs)
     * *ALK*: ANN model development, 3D-Image-QSAR using CNN with  6 times rotation, GNN with pytorch geometric
     * *VEGF*: QSAR model development integrated into JT-VAE network for molecules optimizaztion
-* 2016 - 2018: Research internship - Organic Chemistry Department
+* **2016 - 2018: Research internship - Organic Chemistry Department**
   * Duties included:
     *  Experienced *in silico* techniques by collaborating in lab seminars and academic projects.
     *  Collaborated with labmates to conduct 2D-QSAR utilizing MOE software to screen anticancer bioactivities of some isothiocyanate derivates.
@@ -44,15 +44,15 @@ Work experience
   
 Skills
 ======
-* Programming: Python, C++, Linux, Git, OOP
-* Cheminformatics: RDKit, MOE, Pymol, Autodock, Gromacs, VMD
-* Data science
+* **Programming**: Python, C++, Linux, Git, OOP
+* **Cheminformatics**: RDKit, MOE, Pymol, Autodock, Gromacs, VMD
+* **Data science**
   * Data analysis: visualization (seaborn, matplotlib, plotly), linear algebra, calculus, probability and statistics (numpy, pandas)
   * Data mining: data pipeline development including handle low variance features, missing values, univariate and multivariate outliers; conduct statistical test for decision making in model selection using cross-validation
   * Machine learning: scikit-learn, imblearn, XGBoost, CatBoost, optimization (grid search and bayesian search)
   * Deep Learning: Pytorch, Tensorflow, Keras, CNNs, RNNs, GNN.
-* Process Automation
-* Problem solving, crictical thinking
+* **Process Automation**
+* **Personal skill**: Problem solving, crictical thinking, communication
 
 
 Publications
@@ -61,21 +61,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 
 References
 ======
-* [Assoc.Prof.Truong Ngoc Tuyen, PhD](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
+* [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * Position: Head of Department of Organic Chemistry, Pharmacy Faculty, University of Medicine and pharmacy at Ho Chi Minh city
   * Email: truongngoctuyen@upm.edu.vn
   
 
-* [Assoc.Prof. Tran Nguyen Minh An, PhD](https://scholar.google.com.vn/citations?user=SK8sqMsAAAAJ&hl=vi)
+* [**Assoc.Prof. Tran Nguyen Minh An, PhD**](https://scholar.google.com.vn/citations?user=SK8sqMsAAAAJ&hl=vi)
   * Position: Vice Dean of Chemical Technology Faculty, Industrial University of Ho Chi Minh city
   * Email: trannguyenminhan@iuh.edu.vn
 
