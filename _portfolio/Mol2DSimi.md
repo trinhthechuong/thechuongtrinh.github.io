@@ -1,5 +1,5 @@
 ---
-title: "Molph4"
+title: "Mol2DSimi"
 excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4.png'>"
 collection: portfolio
 ---

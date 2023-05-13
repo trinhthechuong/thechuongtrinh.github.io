@@ -8,7 +8,7 @@ collection: portfolio
 ## Automated Validation pharmacophore model
 - This package use results from MOE pharmacophore model screening (*txt, *csv)
 - Automation select best pharmacophore model to optimize
-![screenshot](./images/Molph4/Molph4.png)
+<br/><img src='/images/Molph4/Molph4.png'>
 
 ## Requirements
 This module requires the following modules:
