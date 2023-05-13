@@ -1,5 +1,5 @@
 ---
-title: "DeepLearning"
+title: "Deep Learning"
 collection: teaching
 type: "Internal training session"
 permalink: /teaching/2023-DeepLearning
@@ -13,7 +13,7 @@ This is a set of four (4+) tutorials on basic information of deep learning in dr
 ## Introduction
 
 
-These tutorials were created between Jan-April 2023 as part of the **MedAI Training Session** for full execution over Google Colab and remote accesibility via web browsers.
+These tutorials were created between Jan-April 2023 as part of the **MedAI Training Session 2** for full execution over Google Colab and remote accesibility via web browsers.
 
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
 
