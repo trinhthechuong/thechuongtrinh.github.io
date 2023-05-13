@@ -11,7 +11,7 @@ collection: portfolio
 
 ### Use butina algorithm to cluster molecules
 
-![screenshot](/images/MolCluster/Butina.png)
+<img src='/images/MolCluster/Butina.png'>
 
 
 
@@ -81,7 +81,7 @@ plot = cluster_heat_map(cls_cps = cluster_centers)
 plot.visualize_triangle()
 ```
 
-![screenshot](/images/MolCluster/HeatmapSimilarities.png)
+<img src='/images/MolCluster/HeatmapSimilarities.png'>
 
 ```python
 # chemical space visualize
