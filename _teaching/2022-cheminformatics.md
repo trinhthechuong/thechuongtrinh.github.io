@@ -7,7 +7,7 @@ venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of O
 date: 2022-01-01
 location: "City, Country"
 ---
-This is a set of eight (8) tutorials on basic information of cheminformatics using the **Google Colab** free cloud-computing environment.
+This is a set of eight (8) tutorials on basic information of cheminformatics using the **Google Colab** free cloud-computing environment in **Summer 2022**.
 
 
 

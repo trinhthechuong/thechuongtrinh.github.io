@@ -1,19 +1,18 @@
 ---
 title: "DeepLearning"
 collection: teaching
-type: "Internal training session"
+type: "Internal training"
 permalink: /teaching/2023-DeepLearning
 venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of Organic Chemistry"
 date: 2023-04-01
 location: "City, Country"
 ---
+This is a set of four (4+) tutorials on basic information of deep learning in drug discovery incoporating tensorflow and pytorch framework, using the **Google Colab** free cloud-computing environment in **Spring 2023**.
 
-This is a set of four (4+) tutorials on basic information of deep learning in drug discovery incoporating tensorflow and pytorch framework, using the **Google Colab** free cloud-computing environment.
 
 ## Introduction
 
-
-These tutorials were created between Jan-April 2023 as part of the **MedAI Training Session** for full execution over Google Colab and remote accesibility via web browsers.
+These tutorials were created between Jan-April 2023 as part of the **MedAI Training Session 2** for full execution over Google Colab and remote accesibility via web browsers.
 
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
 
