@@ -9,7 +9,7 @@ collection: portfolio
 - This package use results from MOE pharmacophore model screening (*txt, *csv)
 - Automation select best pharmacophore model to optimize
 
-![screenshot](./images/Molph4/Molph4.png)
+![screenshot](Molph4.png)
 
 
 ## Requirements
