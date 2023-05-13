@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * **2018 - now: Research Assistant - Organic Chemistry Department**
-  * **Methodology developemt**
+  * **Methodology development**
     * *MolUtil*: molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
     * *mlqsar*: QSAR-machine learning pipeline development incorporate with post hoc Wilcoxon for decision making
     * *MolAD*: applicability domains detection with convex hull 
