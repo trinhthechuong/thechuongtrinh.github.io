@@ -14,7 +14,7 @@ About
 I am Tieu Long Phan, a Master's graduate student in the Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City. My research interests are applying machine learning and deep learning techniques to solving challenging problems in pharmaceutical chemistry, drug discovery, and computational chemistry. This is my blog, where I store my projects and some fundamental code for my research.
 
 
-Researh interests
+Research interests
 ======
 My primary research interests involve:  
 - Development of Quantitative Structure-Activity Relationships (QSAR) models using machine learning algorithms
