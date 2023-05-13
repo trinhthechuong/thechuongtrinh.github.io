@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Baccalaureate, High school for the gifted, 2013
-* [B.S. in Pharmacy](https://drive.google.com/file/d/10RRSdPI6JpUlUjYrXXTu7mYsu3Gx1-SE/view?usp=share_link), University of Medicine and Pharmacy at Ho Chi Minh city, 2013-2018
+* [B.S. in Pharmacy](https://drive.google.com/file/d/1HtcRsLqEubSAeG0jq-YThUoCISZNSKdP/view), University of Medicine and Pharmacy at Ho Chi Minh city, 2013-2018
 * [MSc. in Pharmacy](https://drive.google.com/file/d/10RRSdPI6JpUlUjYrXXTu7mYsu3Gx1-SE/view?usp=share_link),  University of Medicine and Pharmacy at Ho Chi Minh city, 2020-2022 
   * GPA: 8.68/10 - ranking 1%
   * Thesis: *In silico* modeling for prediction of potential HIV integrase inhibitors - Grade: 9.6/10
@@ -71,7 +71,7 @@ Publications
   
 Honours
 ======
-* 2018 - Best poster presentation - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
+* 2018 - [Best poster presentation](https://drive.google.com/file/d/12bXmAw2Tc9_5fX5tO7jIpxnjogdAkYM8/view?usp=share_link) - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
 * 2013 - Silver medal for Vietnamese Chemistry Olympiad (top 32, member of bootcam for ICho)
 * 2012 - Gold medal in 30/4 Chemistry Olympiad of southern Vietnam
 
