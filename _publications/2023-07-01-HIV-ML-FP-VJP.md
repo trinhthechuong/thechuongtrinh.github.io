@@ -13,9 +13,7 @@ HIV-1 has been causing severe pandemics since the 1980s by attacking the host im
 **Keywords**: QSAR, molecular fingerprint, machine learning, HIV integrase, data-centric, average precision.
 [Preprint](https://tieulongphan.github.io/files/3.%20STUDY%20ON%20THE%20EFFECT%20OF%20MOLECULAR%20FINGERPRINTS%20ON%20THE%20PERFORMANCE%20OF%20MACHINE%20LEARNING%20MODEL%20PREDICTING%20HIV%20INTEGRASE%20BIOACTIVITY%20(accepted).pdf)
 
-Recommended citation: Tieu Long Phan, Thanh An Pham, Bao Vy Doan Ngoc, Hoang Son Le Lai, Ngoc Tuyen
-Truong (2023). Study on the effect of molecular fingerprints on the performance of machine
-learning model predicting HIV integrase bioactivty. *Vietnamese Pharmacy Journal* (Accepted)
+Recommended citation: Tieu Long Phan, Thanh An Pham, Bao Vy Doan Ngoc, Hoang Son Le Lai, Ngoc Tuyen Truong (2023). Study on the effect of molecular fingerprints on the performance of machine learning model predicting HIV integrase bioactivty. *Vietnamese Pharmacy Journal* (Accepted)
 
 
 
