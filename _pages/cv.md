@@ -34,12 +34,13 @@ Work experience
     * *Tubulin*: prediction of protein-ligand interaction using graph neural networks; molecular dynamics (Gromacs)
     * *ALK*: ANN model development, 3D-Image-QSAR using CNN with  6 times rotation, GNN with pytorch geometric
     * *VEGF*: QSAR model development integrated into JT-VAE network for molecules optimizaztion
+    * *Apelin*: Comparative study of molecular similarity and pharmacophore targeting Apelin  
 * **2016 - 2018: Research internship - Organic Chemistry Department**
   * Duties included:
     *  Experienced *in silico* techniques by collaborating in lab seminars and academic projects.
     *  Collaborated with labmates to conduct 2D-QSAR utilizing MOE software to screen anticancer bioactivities of some isothiocyanate derivates.
     *  Performed FlexX and Autodock Vina for CDK2 protein (PDB ID: 2C4G), interaction analysis.
-  * Supervisor: Professor Ngoc Tuyen TRUONG
+  * Supervisor: [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
 
   
 Skills
@@ -61,7 +62,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+Honours
+======
+* 2018 - Best poster presentation - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
+* 2012 - Silver medal for Vietnamese Chemistry Olympiad
+
+
 
 References
 ======
