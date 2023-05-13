@@ -1,77 +1,129 @@
 ---
 title: "Mol2DSimi"
-excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4.png'>"
+excerpt: "This is a repository to calculate similartity and compare performance of different types of fingerprints <br/><img src='/images/Mol2DSimi/simi.jpg'>"
 collection: portfolio
 ---
 
 
-## Automated Validation pharmacophore model
-- This package use results from MOE pharmacophore model screening (*txt, *csv)
-- Automation select best pharmacophore model to optimize
-![screenshot](.images/Molph4.png)
+## Mol2DSimi
+- Calculate molecular fingerprints (12 types) and similarity based on reference compounds
+- Automated validation with several types of metrics: AUC, EF1%, EF5%, EF10%, F1 score, GH
+- Statistical test for decision making: which type of fingerprint is suitable or reference compound that enhance performance
+- Ensemble learning: stacking technique
+
+### Tanimoto similarity
+
+$$T _{c}(A,B) = \frac{c}{a+b-c}$$
+
+- a: number of features present in molecule A 
+- b: number of features present in molecule B 
+- c: number of features shared by molecules A and B
+
 
 ## Requirements
+
 This module requires the following modules:
+
 - [RDkit](https://www.rdkit.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
+- [tqdm](https://pypi.org/project/tqdm/)
 
 ## Installation
 Clone this repository to use
 
-## Download the data and pretrained model
-Use the following onedrive link:
+## Folder segmentation
 
-    Update...
-
-Put everything in onedrive folder to "Data" folder:
-
-    
 Finally the folder structure should look like this:
 
-    Molph4 (project root)
+    Mol2DSimi (project root)
     |__  README.md
-    |__  ph4
-    |__  Data
-    |__  |__ data... (downloaded from onedrive)
-    |    |__ results..
-    |    
+    |__  Mol2DSimi
+    |__  |__ Similarity.py
+    |    |__ Simivalid.py
+    |    |__ enrichment_factor.py
+    |    |__ significantplot.py
+    |__  Image (saved images)
+    |__  Mol2DSimi.ipynb 
+    |__  LICENSE
     |......
-## Usage
+
+# Usage
 
 ```python
+import math
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+from rdkit import Chem
 import sys
-sys.path.append('./Ph4')
-from Postprocessing import pharmacophore_postprocess
-from Validation import pharmacophore_validation
-from Autoresult import autoph4result
+sys.path.append('Mol2DSimi')
+from Similarity import similarity_calculate
+from enrichment_factor import Enrichment_Factor
+from validation import  similarity_validation
+from tqdm import tqdm # progress bar
+tqdm.pandas()
+
+
+
+
+# 1. Similarity Calculation
+simi = similarity_calculate(data = data, query= query, smile_col="CanonSmiles", active_col='Active')
+simi.fit()
+simi.plot()
+```
+
+<img src='/images/Mol2DSimi/AMG_986.png'>
+
+
+```python
+# 2. Valudation
+valid = similarity_validation(data, active_col = 'Active', scores = 'tanimoto',plot_type = 'roc', figsize = (14,10), query =i )
+valid.validation()
+valid.visualize()
+```
+
+<img src='/images/Mol2DSimi/AMG_986_rdk5.png'>
+
+```python
+# 3. Compare fingerprints - automated pipeline
 import warnings
 warnings.filterwarnings('ignore')
 
-# 0. Database: dekois is data before screening through pharmacophore model
-dekois = pd.read_csv("DEKOIS_data.csv").drop(['Unnamed: 0'], axis = 1)
-data = pd.read_csv("./Data/cover9/haaa_1.txt")
+from sklearn.model_selection import RepeatedStratifiedKFold, train_test_split
+path = './Similarity/Data/Raw_data'
+cv = RepeatedStratifiedKFold(n_repeats = 3, n_splits=10, random_state=42)
+list_AUC = []
 
-# 1. Postprocess
-postprocess = pharmacophore_postprocess(data = data, model ='haaa_1', ID = 'ID', ref=dekois, 
-                                 scores = 'rmsd', rescore = 'minmax')
-postprocess.fit()
-postprocess.df
 
-# 2. Validation
-ph4 = pharmacophore_validation(data = postprocess.df, active = "Active", predict = "predict",
-                               scores = "haaa_1_rescore", model ='haaa_1', auc_thresh = 0.5, plottype='auc', figsize =(8.5,5))
-ph4.validation()
-ph4.table.head()
-
-# 3.Automation pharmacophore validation
-import os
-dekois =  pd.read_csv('DEKOIS_data.csv').drop(['Unnamed: 0'], axis = 1)
-path = os.getcwd() + '/Data/'
-auto = autoph4result(path = path, ref=dekois, scores = 'rmsd', active = 'Active', ID = 'ID', 
-                     rescore = 'minmax', auc_thresh = 0.6, figsize = (9,5))
-auto.compare_model_multi()
-
+# query is a list of molecules format: CMF_019, AMG_986, BMS_986224 
+for i in query:
+    data = pd.read_csv(path+f'/{i.GetProp("_Name")}.csv')
+    data = data[col]
+    data_train, data_test = train_test_split(data, test_size=0.2, random_state=42, stratify = data.Active)
+    for train_index, test_index in cv.split(data_train.drop(['Active'], axis =1), data_train['Active']):
+        list_auc = []
+        model = []
+        test = data_train.iloc[test_index,:]
+        for i in col[1:]:
+            model.append(i)
+            fpr, tpr, _ = roc_curve(test['Active'], test[i])
+            roc_auc = round(auc(fpr, tpr),3)
+            list_auc.append(roc_auc)
+        list_AUC.append(list_auc)
+AUC = pd.DataFrame(list_AUC, columns = model)
+AMG_986 = AUC.iloc[30:60,:].reset_index(drop=True)
+# post hoc
+df_melt = pd.melt(AMG_986.reset_index(), id_vars=['index'], value_vars=AUC.columns)
+df_melt.columns = ['index', 'Model', 'AUC']
+pc =sp.posthoc_wilcoxon(df_melt, val_col='AUC', group_col='Model', p_adjust='holm')
+plt.figure(figsize = (14,8))
+plt.title("AUC-Wilcoxon - AMG_986", fontsize = 24, weight = 'semibold')
+heatmap_args = {'linewidths': 0.25, 'linecolor': '0.5', 'clip_on': False, 'square': True, 'cbar_ax_bbox': [0.80, 0.35, 0.04, 0.3]}
+sign_plot(pc, **heatmap_args)
 ```
+<img src='/images/Mol2DSimi/AMG_986_posthoc.png'>
+
+## Contributing
+
+Please visit the [Mol2DSimi](https://github.com/TieuLongPhan/Mol2DSimi) repository.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
