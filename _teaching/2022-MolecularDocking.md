@@ -8,7 +8,7 @@ date: 2022-08-01
 location: "City, Country"
 ---
 
-This is a set of two (2+) tutorials on basic information of deep learning in drug discovery incoporating python framework, using the **Google Colab** free cloud-computing environment in **Fall 2022**.
+This is a set of two (2+) tutorials on basic information of molecular docking incoporating python framework, using the **Google Colab** free cloud-computing environment in **Fall 2022**.
 
 
 
