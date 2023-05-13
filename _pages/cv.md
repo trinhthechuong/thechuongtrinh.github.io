@@ -22,13 +22,13 @@ Work experience
 ======
 * **2018 - now: Research Assistant - Organic Chemistry Department**
   * **Methodology development**
-    * *MolUtil*: molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
+    * [*MolUtil*](https://tieulongphan.github.io/portfolio/MolUtil/): molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
     * *mlqsar*: QSAR-machine learning pipeline development incorporate with post hoc Wilcoxon for decision making
-    * *MolAD*: applicability domains detection with convex hull 
-    * *MoleculeClustering*: molecules clustering with Butina algorithms and diverse subsets selection
-    * *MolPh4*: pharmacophore validation, statistical comparison (Wilcoxon); ensemble pharmacophore development
-    * *DockingValid*: automated result extraction and validation (retrospective control-ROC plot)
-    * *Mol2DSimi*: molecular similarity searching, validation, and comparison between different fingerprints
+    * [*MolAD*](https://tieulongphan.github.io/portfolio/MolAD/): applicability domains detection with convex hull 
+    * [*MoleculeClustering*](https://tieulongphan.github.io/portfolio/MolCluster/): molecules clustering with Butina algorithms and diverse subsets selection
+    * [*MolPh4*](https://tieulongphan.github.io/portfolio/Molph4/): pharmacophore validation, statistical comparison (Wilcoxon); ensemble pharmacophore development
+    * [*DockValid*](https://tieulongphan.github.io/portfolio/DockValid/): automated result extraction and validation (retrospective control-ROC plot)
+    * [*Mol2DSimi*](https://tieulongphan.github.io/portfolio/Mol2DSimi/): molecular similarity searching, validation, and comparison between different fingerprints
   * **Application of AI methods in drug discovery**
     * *HIV-1 integrase* (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
     * *SGLT2i*: comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold 

@@ -33,8 +33,7 @@ This module requires the following modules:
 Clone this repository to use
 
 ## Note
-
-Updating
+Updating...
 
 ## Contributing
 
