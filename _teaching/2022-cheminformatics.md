@@ -1,5 +1,5 @@
 ---
-title: "Chemìnformatics"
+title: "Cheminformatics"
 collection: teaching
 type: "Internal training session"
 permalink: /teaching/2022-cheminformatics
