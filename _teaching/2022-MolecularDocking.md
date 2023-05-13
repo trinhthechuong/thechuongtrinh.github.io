@@ -1,7 +1,7 @@
 ---
 title: "Molecular Docking"
 collection: teaching
-type: "Internal training session"
+type: "Internal training"
 permalink: /teaching/2022-MolecularDocking
 venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of Organic Chemistry"
 date: 2022-08-01

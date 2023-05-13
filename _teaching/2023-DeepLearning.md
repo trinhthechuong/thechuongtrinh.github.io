@@ -1,5 +1,5 @@
 ---
-title: "DeepLearning"
+title: "Deep Learning"
 collection: teaching
 type: "Internal training"
 permalink: /teaching/2023-DeepLearning

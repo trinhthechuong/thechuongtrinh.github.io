@@ -1,7 +1,7 @@
 ---
 title: "Cheminformatics"
 collection: teaching
-type: "Internal training session"
+type: "Internal training"
 permalink: /teaching/2022-cheminformatics
 venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of Organic Chemistry"
 date: 2022-01-01
@@ -10,14 +10,19 @@ location: "City, Country"
 This is a set of eight (8) tutorials on basic information of cheminformatics using the **Google Colab** free cloud-computing environment in **Summer 2022**.
 
 
-
-
-
-
 ## Introduction
 These tutorials were created between Jan-June 2022 as part of the **MedAI Training Session** for full execution over Google Colab and remote accesibility via web browsers.
 
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
+
+After this training session, you will know:
+- Package using in cheminformatics: RDKit
+- SMILES and SMART structure
+- Visualize molecules and database
+- ADMET and virtual screening filtrations
+- Molecular descriptors and fingerprints
+- Molecular Similarity
+- Clustering techniques
 
 ## Description of the Tutorials
 
