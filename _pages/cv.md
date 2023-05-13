@@ -14,9 +14,8 @@ Education
 * Baccalaureate, High school for the gifted, 2013
 * [B.S. in Pharmacy](https://drive.google.com/file/d/10RRSdPI6JpUlUjYrXXTu7mYsu3Gx1-SE/view?usp=share_link), University of Medicine and Pharmacy at Ho Chi Minh city, 2013-2018
 * [MSc. in Pharmacy](https://drive.google.com/file/d/10RRSdPI6JpUlUjYrXXTu7mYsu3Gx1-SE/view?usp=share_link),  University of Medicine and Pharmacy at Ho Chi Minh city, 2020-2022 
-  * GPA: GPA: 8.68/10 - ranking 1%
+  * GPA: 8.68/10 - ranking 1%
   * Thesis: *In silico* modeling for prediction of potential HIV integrase inhibitors - Grade: 9.6/10
-  * IELST: 7.5 (5/2023)
 * Pursing Ph.D position in cheminformatics/machine learning, 2023+
 
 Work experience
