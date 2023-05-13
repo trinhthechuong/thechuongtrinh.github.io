@@ -16,6 +16,15 @@ These tutorials were created between Jan-April 2023 as part of the **MedAI Train
 
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
 
+After this training session, you will know:
+- Build a feed forward neural network using tensorflow and pytorch framework
+- Validate the model performance using validation data set
+- Visualize loss plot
+- Optimize model by changing nodes, layers, dropout, regularization,...
+- Early stopping technique
+- Save and load model
+- Basic understanding of transfer learning
+
 ## Description of the Tutorials
 
 The following is a brief description of each tutorial, along with the open-source software used for each task:

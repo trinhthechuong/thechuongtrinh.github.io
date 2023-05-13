@@ -16,6 +16,7 @@ This is a set of two (2+) tutorials on basic information of deep learning in dru
 
 These tutorials were created between Aug-Dec 2022 as part of the **MedAI Training Session 2** for full execution over Google Colab and remote accesibility via web browsers.
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
+
 After this training session, you will know:
 - Install virtual environment con google colab with Miniconda
 - Install fundamental packages for simple docking
