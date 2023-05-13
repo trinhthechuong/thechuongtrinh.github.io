@@ -1,10 +1,10 @@
 ---
-title: "Cheminformatics"
+title: "DeepLearning"
 collection: teaching
 type: "Internal training session"
-permalink: /teaching/2022-cheminformatics
+permalink: /teaching/2023-DeepLearning
 venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of Organic Chemistry"
-date: 2022-01-01
+date: 2023-04-01
 location: "City, Country"
 ---
 
