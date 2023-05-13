@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -67,12 +67,17 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+
+References
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Assoc.Prof.Truong Ngoc Tuyen, PhD
+  * Position: Head of Department of Organic Chemistry, Pharmacy Faculty, University of Medicine and pharmacy at Ho Chi Minh city
+  * Email: truongngoctuyen@upm.edu.vn
+
+* Assoc.Prof. Tran Nguyen Minh An, PhD
+  * Position: Vice Dean of Chemical Technology Faculty, Industrial University of Ho Chi Minh city
+  * Email: trannguyenminhan@iuh.edu.vn
+
+
+
+
