@@ -68,7 +68,8 @@ Publications
 Honours
 ======
 * 2018 - Best poster presentation - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
-* 2012 - Silver medal for Vietnamese Chemistry Olympiad
+* 2013 - Silver medal for Vietnamese Chemistry Olympiad (top 32, member of bootcam for ICho)
+* 2012 - Gold medal in 30/4 Chemistry Olympiad of southern Vietnam
 
 
 
