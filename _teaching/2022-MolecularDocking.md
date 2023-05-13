@@ -8,7 +8,7 @@ date: 2022-08-01
 location: "City, Country"
 ---
 
-This is a set of two (2+) tutorials on basic information of deep learning in drug discovery incoporating tensorflow and pytorch framework, using the **Google Colab** free cloud-computing environment in **Fall 2022**.
+This is a set of two (2+) tutorials on basic information of deep learning in drug discovery incoporating python framework, using the **Google Colab** free cloud-computing environment in **Fall 2022**.
 
 
 
@@ -35,5 +35,6 @@ The following is a brief description of each tutorial, along with the open-sourc
 | Tutorial | Description                           | Software                                                        |
 |--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Cheminformatics/lab01-RDKIT_tutorial.ipynb) | Install software, ligand and receptor reparation, simple docking                         |    Miniconda, Obabel, py3dmol, RDKit, smina, qvina2, mgltools 1.5.7                                                                                                      |
-| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Cheminformatics/lab02-SMILES_tutorials.ipynb) |Miniconda, Obabel, py3dmol, RDKit, smina, qvina2, mgltools 1.5.7 |
+| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Cheminformatics/lab01-RDKIT_tutorial.ipynb) | Docking Analysis and advance docking including blind docking, flexible docking and scoring function optimization                         |    Miniconda, Obabel, py3dmol, RDKit, smina, qvina2, mgltools 1.5.7                                                                                                      |
+
 
