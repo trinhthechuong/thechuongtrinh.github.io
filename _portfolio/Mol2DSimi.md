@@ -71,8 +71,7 @@ simi.fit()
 simi.plot()
 ```
 
-<img src='/images/Mol2DSimi/AMG_986.png'>
-
+<img src='/images/Mol2DSimi/AMG_986_rdk5.png'>
 
 ```python
 # 2. Valudation
@@ -81,7 +80,7 @@ valid.validation()
 valid.visualize()
 ```
 
-<img src='/images/Mol2DSimi/AMG_986_rdk5.png'>
+<img src='/images/Mol2DSimi/AMG_986.png'>
 
 ```python
 # 3. Compare fingerprints - automated pipeline
@@ -120,7 +119,7 @@ plt.title("AUC-Wilcoxon - AMG_986", fontsize = 24, weight = 'semibold')
 heatmap_args = {'linewidths': 0.25, 'linecolor': '0.5', 'clip_on': False, 'square': True, 'cbar_ax_bbox': [0.80, 0.35, 0.04, 0.3]}
 sign_plot(pc, **heatmap_args)
 ```
-<img src='/images/Mol2DSimi/AMG_986_posthoc.png'>
+<img src='/images/Mol2DSimi/AMG_posthoc.png'>
 
 ## Contributing
 
