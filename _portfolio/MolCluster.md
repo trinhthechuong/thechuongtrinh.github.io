@@ -1,6 +1,6 @@
 ---
 title: "MolCluster"
-excerpt: "This is a repository to categorize compounds into different clusters<br/><img src='/images/MolCluster/Butina.png'>"
+excerpt: "This is a repository to categorize compounds into different clusters<br/><img src='/images/MolCluster/similarity.jpg'>"
 collection: portfolio
 ---
 
@@ -89,6 +89,9 @@ plot = cluster_scatter_plot(data=df_active, no_cls= 8, mol_col='Molecule', algo 
 plot.visualize()
 
 ```
+List of centroids:
+
+<img src='/images/MolCluster/molecules.jpg'>
 
 ## Contributing
 

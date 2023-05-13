@@ -1,6 +1,6 @@
 ---
 title: "Molph4"
-excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4/Molph4.png'>"
+excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4/ph4.jpg'>"
 collection: portfolio
 ---
 
@@ -65,7 +65,11 @@ ph4 = pharmacophore_validation(data = postprocess.df, active = "Active", predict
                                scores = "haaa_1_rescore", model ='haaa_1', auc_thresh = 0.5, plottype='auc', figsize =(8.5,5))
 ph4.validation()
 ph4.table.head()
+```
 
+<img src='/images/Molph4/ROC1.png'>
+
+```python
 # 3.Automation pharmacophore validation
 import os
 dekois =  pd.read_csv('DEKOIS_data.csv').drop(['Unnamed: 0'], axis = 1)
