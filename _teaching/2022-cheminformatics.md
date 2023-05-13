@@ -7,10 +7,14 @@ venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of O
 date: 2022-01-01
 location: "City, Country"
 ---
-
-## Introduction
 This is a set of eight (8) tutorials on basic information of cheminformatics using the **Google Colab** free cloud-computing environment.
 
+
+
+
+
+
+## Introduction
 These tutorials were created between Jan-June 2022 as part of the **MedAI Training Session** for full execution over Google Colab and remote accesibility via web browsers.
 
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
