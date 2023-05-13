@@ -81,7 +81,7 @@ plot = cluster_heat_map(cls_cps = cluster_centers)
 plot.visualize_triangle()
 ```
 
-<img src='/images/MolCluster/HeatmapSimilarities.png'>
+<img src='/images/MolCluster/HeatmapSimilarities.jpg'>
 
 ```python
 # chemical space visualize
