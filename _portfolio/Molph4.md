@@ -75,3 +75,8 @@ auto = autoph4result(path = path, ref=dekois, scores = 'rmsd', active = 'Active'
 auto.compare_model_multi()
 
 ```
+
+# Contributing
+
+Please visit the [Molph4](https://github.com/TieuLongPhan/Molph4) repository.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
