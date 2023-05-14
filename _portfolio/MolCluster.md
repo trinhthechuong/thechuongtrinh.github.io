@@ -6,7 +6,7 @@ collection: portfolio
 
 
 ## MolecularClustering 
-- Clustering molecules into differenet group based on molecular fingerpirnt and  Butina, K-means algorithms
+- Clustering molecules into different group based on molecular fingerpirnt and  Butina, K-means algorithms
 - To select diverse subset for pharmacophore modeling, docking retrospective control, or just select compounds for HTS
 
 ### Use butina algorithm to cluster molecules
