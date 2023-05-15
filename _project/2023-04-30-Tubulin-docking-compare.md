@@ -20,12 +20,12 @@ This module requires the following modules:
 
 - [RDkit](https://www.rdkit.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
-- [Autodock-GPU]
-- [Vina-GPU]
-- [Autodock vina]
-- [smina]
-- [qvina2]
-- [gnina]
+- [Autodock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU)
+- [Vina-GPU](https://github.com/DeltaGroupNJUPT/Vina-GPU)
+- [Autodock vina](https://github.com/ccsb-scripps/AutoDock-Vina)
+- [smina](https://github.com/mwojcikowski/smina)
+- [qvina2](https://qvina.github.io/)
+- [gnina](https://github.com/gnina/gnina)
 
 ## Installation
 Clone this repository to use
