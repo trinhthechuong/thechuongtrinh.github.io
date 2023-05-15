@@ -1,6 +1,6 @@
 ---
 title: "MolAD"
-excerpt: "This is a repository to identify applicability domain of QSAR model <br/><img src='/images/MolAD/AD.jpg' alt="Applicability Domain" width="500" height="500">"
+excerpt: "This is a repository to identify applicability domain of QSAR model <br/><img src='/images/MolAD/AD.jpg'>"
 collection: portfolio
 ---
 

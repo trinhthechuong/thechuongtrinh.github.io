@@ -1,6 +1,6 @@
 ---
 title: "MolUtil"
-excerpt: "This is a repository containing useful functions for cheminformatics tasks <br/><img src='/images/MolUtil/Util.jpg' alt="Molecular Util" width="500" height="500">"
+excerpt: "This is a repository containing useful functions for cheminformatics tasks <br/><img src='/images/MolUtil/Util.jpg'>"
 collection: portfolio
 ---
 

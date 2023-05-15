@@ -1,6 +1,6 @@
 ---
 title: "Mol2DSimi"
-excerpt: "This is a repository to calculate similartity and compare performance of different types of fingerprints <br/><img src='/images/Mol2DSimi/simi.jpg' alt="Mol2DSimilarity" width="500" height="500">"
+excerpt: "This is a repository to calculate similartity and compare performance of different types of fingerprints <br/><img src='/images/Mol2DSimi/simi.jpg'>"
 collection: portfolio
 ---
 
