@@ -49,18 +49,16 @@ Work experience
 Supervision of undergraduate students
 ======
 * **In progress**
- * 1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
- * 2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
- * 3. Gia Bao **Truong**: Optimize molecules targeting VEGFR using variation autoencoder
- * 4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
+ 1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
+ 2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
+ 3. Gia Bao **Truong**: Optimize molecules targeting VEGFR using variation autoencoder
+ 4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
  
 * **Completed**
- * 5. Bao Vy **Doan Ngoc**: 
- * 6. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning
- * 7. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
+ 5. Bao Vy **Doan Ngoc**: 
+ 6. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning
+ 7. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
  
- IN SILICO STUDY OF SGLT2 INHIBITORS FROM CLASSICAL TO
-APPLIED MACHINE LEARNING
 
 Skills
 ======
