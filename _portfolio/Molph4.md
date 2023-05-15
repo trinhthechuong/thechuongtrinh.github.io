@@ -1,6 +1,6 @@
 ---
 title: "Molph4"
-excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4/ph4.jpg'>"
+excerpt: "This is an automated tool to extract pharmacophore result of MOE software and validation<br/><img src='/images/Molph4/ph4.jpg' alt="Pharmacophore" width="500" height="500">"
 collection: portfolio
 ---
 
