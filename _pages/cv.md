@@ -57,7 +57,7 @@ Supervision of undergraduate students
 * **Completed**
  * 5. Bao Vy **Doan Ngoc**: 
  * 6. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning
- * 7. Ha My **Dao Nguyen**:
+ * 7. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
  
  IN SILICO STUDY OF SGLT2 INHIBITORS FROM CLASSICAL TO
 APPLIED MACHINE LEARNING
