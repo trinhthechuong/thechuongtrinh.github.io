@@ -1,5 +1,5 @@
 ---
-title: "Graph Neural Network for ALK inhibitors"
+title: "Tubulin docking"
 excerpt: "This is a repository containing one part of Le Lai Hoang Son's thesis <br/><img src='/images/Tubulin-docking/score_distribution.png'>"
 collection: project
 ---
