@@ -1,6 +1,6 @@
 ---
 title: "MolCluster"
-excerpt: "This is a repository to categorize compounds into different clusters<br/><img src='/images/MolCluster/similarity.jpg' width='1000', class='center'>"
+excerpt: "This is a repository to categorize compounds into different clusters<br/><img src='/images/MolCluster/similarity.jpg' width='1000' class='center'>"
 collection: portfolio
 ---
 

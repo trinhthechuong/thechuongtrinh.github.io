@@ -1,6 +1,6 @@
 ---
 title: "DockValid"
-excerpt: "This is a repository to for automated docking score extraction and validation from different softwares <br/><img src='/images/DockValid/Docking1.jpg' width='1000', class='center'>"
+excerpt: "This is a repository to for automated docking score extraction and validation from different softwares <br/><img src='/images/DockValid/Docking1.jpg' width='1000' class='center'>"
 collection: portfolio
 ---
 
