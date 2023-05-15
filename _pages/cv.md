@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Baccalaureate, High school for the gifted, 2013
-* [B.S. in Pharmacy](https://drive.google.com/file/d/1HtcRsLqEubSAeG0jq-YThUoCISZNSKdP/view), University of Medicine and Pharmacy at Ho Chi Minh city, 2013-2018
-* [MSc. in Pharmacy](https://drive.google.com/file/d/10RRSdPI6JpUlUjYrXXTu7mYsu3Gx1-SE/view?usp=share_link),  University of Medicine and Pharmacy at Ho Chi Minh city, 2020-2022 
+* [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city, 2013-2018
+* [MSc. in Pharmacy](https://tieulongphan.github.io/files/Master%20Degree.pdf),  University of Medicine and Pharmacy at Ho Chi Minh city, 2020-2022 
   * GPA: 8.68/10 - ranking 1%
   * Thesis: *In silico* modeling for prediction of potential HIV integrase inhibitors - Grade: 9.6/10
 * Pursing Ph.D position in cheminformatics/machine learning, 2023+
@@ -22,13 +22,13 @@ Work experience
 ======
 * **2018 - now: Research Assistant - Organic Chemistry Department**
   * **Methodology development**
-    * [*MolUtil*](https://tieulongphan.github.io/portfolio/MolUtil/): molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
-    * *mlqsar*: QSAR-machine learning pipeline development incorporate with post hoc Wilcoxon for decision making
-    * [*MolAD*](https://tieulongphan.github.io/portfolio/MolAD/): applicability domains detection with convex hull 
-    * [*MoleculeClustering*](https://tieulongphan.github.io/portfolio/MolCluster/): molecules clustering with Butina algorithms and diverse subsets selection
-    * [*MolPh4*](https://tieulongphan.github.io/portfolio/Molph4/): pharmacophore validation, statistical comparison (Wilcoxon); ensemble pharmacophore development
-    * [*DockValid*](https://tieulongphan.github.io/portfolio/DockValid/): automated result extraction and validation (retrospective control-ROC plot)
-    * [*Mol2DSimi*](https://tieulongphan.github.io/portfolio/Mol2DSimi/): molecular similarity searching, validation, and comparison between different fingerprints
+    * [*MolUtil*](https://tieulongphan.github.io/portfolio/2023-05-01-MolUtil/): molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
+    * [*mlqsar*](https://tieulongphan.github.io/portfolio/2023-05-07-mlqsar/): QSAR-machine learning pipeline development incorporate with post hoc Wilcoxon for decision making
+    * [*MolAD*](https://tieulongphan.github.io/portfolio/2023-05-05-MolAD/): applicability domains detection with convex hull 
+    * [*MoleculeClustering*](https://tieulongphan.github.io/portfolio/2023-05-03-MolCluster/): molecules clustering with Butina algorithms and diverse subsets selection
+    * [*MolPh4*](https://tieulongphan.github.io/portfolio/2023-05-04-Molph4/): pharmacophore validation, statistical comparison (Wilcoxon); ensemble pharmacophore development
+    * [*DockValid*](https://tieulongphan.github.io/portfolio/2023-05-06-DockValid): automated result extraction and validation (retrospective control-ROC plot)
+    * [*Mol2DSimi*](https://tieulongphan.github.io/portfolio/2023-05-02-Mol2DSimi/): molecular similarity searching, validation, and comparison between different fingerprints
   * **Application of AI methods in drug discovery**
     * *HIV-1 integrase* (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
     * *SGLT2i*: comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold 
@@ -71,7 +71,7 @@ Publications
   
 Honours
 ======
-* 2018 - [Best poster presentation](https://drive.google.com/file/d/12bXmAw2Tc9_5fX5tO7jIpxnjogdAkYM8/view?usp=share_link) - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
+* 2018 - [Best poster presentation](https://tieulongphan.github.io/files/Giấy chứng nhận giải nhất poster.pdf) - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
 * 2013 - Silver medal for Vietnamese Chemistry Olympiad (top 32, member of bootcam for ICho)
 * 2012 - Gold medal in 30/4 Chemistry Olympiad of southern Vietnam
 
