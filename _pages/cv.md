@@ -49,16 +49,22 @@ Work experience
 Supervision of undergraduate students
 ======
 * **In progress**
- 1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
- 2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
- 3. Gia Bao **Truong**: Optimize molecules targeting VEGFR using variation autoencoder
- 4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
- 
+  * ***D18***
+   1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
+   2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
+   3. Gia Bao **Truong**: Optimize molecules targeting VEGFR using variation autoencoder
+   4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
+  * ***D19***
+   5. Thinh Van **To**: Develop molecular representation using 3D-CNN incorporating graph neural networks.
+   6. Thanh Anh **Pham**: Develop molecular docking tools incorporating graph neural networks to predict conformation of ligands interacting with protein.
+   7. Phuoc Chung **Nguyen Van**: Enhance reaction yield using bayesian optimization.
+  
 * **Completed**
- 5. Bao Vy **Doan Ngoc**: 
- 6. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning
- 7. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
- 
+  * ***D19***
+   8. Bao Vy **Doan Ngoc**: Application of molecular similarity, machine learning and molecular docking method for PD-L1 inhibitors virtual screening.
+   9. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning.
+   10. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
+
 
 Skills
 ======
@@ -76,6 +82,11 @@ Language
 ======
 * **English**: Full Professional Proficiency - [IELTS 7.5](https://drive.google.com/file/d/1d2aqC8APbJ23sUbGRZcFqbQITQIocAvm/view?usp=share_link)
 * **Japanese**: Professional Working Proficiency - JPLT N3
+
+Course
+======
+1. Python for developers - VTC Academy
+2. AI specialist and machine enygineer - VTC Academy
 
 Publications
 ======
