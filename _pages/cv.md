@@ -55,7 +55,13 @@ Supervision of undergraduate students
  * 4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
  
 * **Completed**
- * **Methodology development**
+ * 5. Bao Vy **Doan Ngoc**: 
+ * 6. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning
+ * 7. Ha My **Dao Nguyen**:
+ 
+ IN SILICO STUDY OF SGLT2 INHIBITORS FROM CLASSICAL TO
+APPLIED MACHINE LEARNING
+
 Skills
 ======
 * **Programming**: Python, C++, Linux, Git, OOP
