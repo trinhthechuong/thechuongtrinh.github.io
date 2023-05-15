@@ -81,12 +81,13 @@ References
 ======
 * [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * Position: Head of Department of Organic Chemistry, Pharmacy Faculty, University of Medicine and pharmacy at Ho Chi Minh city
-  * Email: truongngoctuyen@upm.edu.vn
+  * Email: [truongngoctuyen@ump.edu.vn](mailto:truongngoctuyen@ump.edu.vn)
   
 
 * [**Assoc.Prof. Tran Nguyen Minh An, PhD**](https://scholar.google.com.vn/citations?user=SK8sqMsAAAAJ&hl=vi)
   * Position: Vice Dean of Chemical Technology Faculty, Industrial University of Ho Chi Minh city
-  * Email: trannguyenminhan@iuh.edu.vn
+  * Email: [trannguyenminhan@iuh.edu.vn](mailto:trannguyenminhan@iuh.edu.vn)
+  
 
 
 
