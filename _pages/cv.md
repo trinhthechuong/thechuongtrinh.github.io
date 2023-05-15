@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Baccalaureate, High school for the gifted, 2013
-* [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city, 2013-2018
-* [MSc. in Pharmacy](https://tieulongphan.github.io/files/Master%20Degree.pdf),  University of Medicine and Pharmacy at Ho Chi Minh city, 2020-2022 
+* 2010-2023: Baccalaureate, High school for the gifted.
+* 2013-2018: [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city.
+* 2020-2022: [MSc. in Pharmacy](https://tieulongphan.github.io/files/Master%20Degree.pdf),  University of Medicine and Pharmacy at Ho Chi Minh city.
   * GPA: 8.68/10 - ranking 1%
   * Thesis: *In silico* modeling for prediction of potential HIV integrase inhibitors - Grade: 9.6/10
-* Pursing Ph.D position in cheminformatics/machine learning, 2023+
+* 2023+: Pursing Ph.D position in cheminformatics/machine learning.
 
 Work experience
 ======
@@ -45,7 +45,17 @@ Work experience
     *  Performed FlexX and Autodock Vina for CDK2 protein (PDB ID: 2C4G), interaction analysis.
   * Supervisor: [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
 
-  
+ 
+Supervision of undergraduate students
+======
+* **In progress**
+ * 1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
+ * 2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
+ * 3. Gia Bao **Truong**: Optimize molecules targeting VEGFR using variation autoencoder
+ * 4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
+ 
+* **Completed**
+ * **Methodology development**
 Skills
 ======
 * **Programming**: Python, C++, Linux, Git, OOP
