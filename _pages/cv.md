@@ -34,7 +34,7 @@ Work experience
     * *SGLT2i*: comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold 
     * *PD-1/PD-L1* immune checkpoint: similarity comparison among MACCs, ECFP4 and RDK5; similarity searching 
   * **Supervisor for undergraduate students' thesis**
-    * *Tubulin*: prediction of protein-ligand interaction using graph neural networks; molecular dynamics (Gromacs)
+    * [*Tubulin*](https://tieulongphan.github.io/project/2023-04-30-Tubulin-docking-compare/): prediction of protein-ligand interaction using graph neural networks; molecular dynamics (Gromacs)
     * [*ALK*](https://tieulongphan.github.io/project/2023-05-01-ALK-GNN/): ANN model development, 3D-Image-QSAR using CNN with  6 times rotation, GNN with pytorch geometric
     * *VEGF*: QSAR model development integrated into JT-VAE network for molecules optimizaztion
     * *Apelin*: Comparative study of molecular similarity and pharmacophore targeting Apelin  
