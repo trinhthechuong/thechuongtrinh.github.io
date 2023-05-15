@@ -52,11 +52,11 @@ Supervision of undergraduate students
   * ***D18***
    1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
    2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
-   3. Gia Bao **Truong**: Optimize molecules targeting VEGFR using variation autoencoder
-   4. Xuan Truc **Tran Dinh**: Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
+   3. [Gia Bao **Truong**](https://github.com/buchijw): Optimize molecules targeting VEGFR using variation autoencoder
+   4. [Xuan Truc **Tran Dinh**](https://github.com/XuanTruc810): Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
   * ***D19***
    5. Thinh Van **To**: Develop molecular representation using 3D-CNN incorporating graph neural networks.
-   6. Thanh Anh **Pham**: Develop molecular docking tools incorporating graph neural networks to predict conformation of ligands interacting with protein.
+   6. [Thanh Anh **Pham**](https://github.com/anpham2209): Develop molecular docking tools incorporating graph neural networks to predict conformation of ligands interacting with protein.
    7. Phuoc Chung **Nguyen Van**: Enhance reaction yield using bayesian optimization.
   
 * **Completed**
@@ -99,7 +99,6 @@ Honours
 * 2018 - [Best poster presentation](https://tieulongphan.github.io/files/Giấy chứng nhận giải nhất poster.pdf) - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
 * 2013 - Silver medal for Vietnamese Chemistry Olympiad (top 32, member of bootcam for ICho)
 * 2012 - Gold medal in 30/4 Chemistry Olympiad of southern Vietnam
-
 
 
 References
