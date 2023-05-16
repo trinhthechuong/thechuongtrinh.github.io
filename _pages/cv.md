@@ -30,7 +30,7 @@ Work experience
     * [*DockValid*](https://tieulongphan.github.io/portfolio/2023-05-06-DockValid): automated result extraction and validation (retrospective control-ROC plot)
     * [*Mol2DSimi*](https://tieulongphan.github.io/portfolio/2023-05-02-Mol2DSimi/): molecular similarity searching, validation, and comparison between different fingerprints
   * **Application of AI methods in drug discovery**
-    * *HIV-1 integrase* (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
+    * [*HIV-1 integrase*](https://tieulongphan.github.io/project/2022-11-1-thesis/) (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
     * *SGLT2i*: comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold 
     * *PD-1/PD-L1* immune checkpoint: similarity comparison among MACCs, ECFP4 and RDK5; similarity searching 
   * **Supervisor for undergraduate students' thesis**
