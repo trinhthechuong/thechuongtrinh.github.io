@@ -62,8 +62,9 @@ Supervision of undergraduate students
 * **Completed**
   * ***D17***
    8. Bao Vy **Doan Ngoc**: Application of molecular similarity, machine learning and molecular docking method for PD-L1 inhibitors virtual screening.
-   9. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning.
-   10. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
+   9. Tuyet Minh **Phan**: Machine learning models development to screen HIV integrase inhibitors followed with total synthesis and *in vitro* evaluation.
+   10. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning.
+   11. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
 
 
 Skills
