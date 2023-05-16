@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2010-2021: Baccalaureate, High school for the gifted.
+* 2010-2013: Baccalaureate, High school for the gifted.
 * 2013-2018: [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city.
 * 2020-2022: [MSc. in Pharmacy](https://tieulongphan.github.io/files/Master%20Degree.pdf),  University of Medicine and Pharmacy at Ho Chi Minh city.
   * GPA: 8.68/10 - ranking 1%
