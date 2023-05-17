@@ -89,6 +89,12 @@ Course
 1. Python for developers - VTC Academy
 2. AI specialist and machine enygineer - VTC Academy
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
