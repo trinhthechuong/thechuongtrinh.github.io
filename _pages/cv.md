@@ -55,14 +55,14 @@ Supervision of undergraduate students
    3. [Gia Bao **Truong**](https://github.com/buchijw): Optimize molecules targeting VEGFR using variation autoencoder
    4. [Xuan Truc **Tran Dinh**](https://github.com/XuanTruc810): Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
   * ***D19***
-   5. Thinh Van **To**: Develop molecular representation using 3D-CNN incorporating graph neural networks.
+   5. [Thinh Van **To**](https://github.com/ThinhUMP): Develop molecular representation using 3D-CNN incorporating graph neural networks.
    6. [Thanh An **Pham**](https://github.com/anpham2209): Develop molecular docking tools incorporating graph neural networks to predict conformation of ligands interacting with protein.
    7. Phuoc Chung **Nguyen Van**: Enhance reaction yield using bayesian optimization.
   
 * **Completed**
   * ***D17***
    8. Bao Vy **Doan Ngoc**: Application of molecular similarity, machine learning and molecular docking method for PD-L1 inhibitors virtual screening.
-   9. Tuyet Minh **Phan**: Machine learning models development to screen HIV integrase inhibitors followed with total synthesis and *in vitro* evaluation.
+   9. [Tuyet Minh **Phan**](https://www.linkedin.com/in/tuyet-minh-phan-19141424a/): Machine learning models development to screen HIV integrase inhibitors followed with total synthesis and *in vitro* evaluation.
    10. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning.
    11. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
 
