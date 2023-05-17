@@ -66,7 +66,7 @@ Supervision of undergraduate students
    10. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning.
    11. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
 
-
+<p><a href="https://www.linkedin.com/in/tuyet-minh-phan-19141424a/" target="_blank">Tuyet Minh **Phan**</a>.</p>
 Skills
 ======
 * **Programming**: Python, C++, Linux, Git, OOP
