@@ -2,19 +2,21 @@
 title: "Molecular Docking"
 collection: teaching
 type: "Internal training"
-permalink: /teaching/2022-MolecularDocking
+permalink: /teaching/2023-MolecularDocking-labhhc
 venue: "University of Medicine and Pharmacy at Ho Chi Minh city, Department of Organic Chemistry"
-date: 2022-08-01
+date: 2023-06-02
 location: "City, Country"
 ---
 
-This is a set of two (2+) tutorials on basic information of molecular docking incoporating python framework, using the **Google Colab** free cloud-computing environment in **Fall 2022**.
+This is a set of two (4) tutorials on basic information of molecular docking incoporating python framework, using the **Google Colab** free cloud-computing environment in **Summer 2023**. You can watch this [tutorial](https://www.youtube.com/watch?v=oCngVVBSsmA) to learn how to use **Google Colab**.
+Please download the presentation [here](https://tieulongphan.github.io/files/docking_slide.pdf). Or you can read the [Vietnamse document](https://tieulongphan.github.io/files/docking_vn.pdf).
 
+<a href="https://tieulongphan.github.io/files/docking_slide.pdf"><img src="/images/dock.png" target="_blank" alt="thesis slide" class="center" style="width:500px"></a>
 
 
 ## Introduction
 
-These tutorials were created between Aug-Dec 2022 as part of the **MedAI Training Session 2** for full execution over Google Colab and remote accesibility via web browsers.
+These tutorials were created between May-June 2023 as part of the **MedAI Training Session** for full execution over Google Colab and remote accesibility via web browsers.
 Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial. 
 
 After this training session, you will know:
@@ -34,7 +36,11 @@ The following is a brief description of each tutorial, along with the open-sourc
 
 | Tutorial | Description                           | Software                                                        |
 |--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking/lab01-Basic_docking.ipynb) | Install software, ligand and receptor reparation, simple docking                         |    Miniconda, Obabel, py3dmol, RDKit, smina, qvina2, mgltools 1.5.7                                                                                                      |
-| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking/lab02-Advance_docking.ipynb) | Docking Analysis and advance docking including blind docking, flexible docking and scoring function optimization                         |    Miniconda, Obabel, py3dmol, RDKit, smina, qvina2, mgltools 1.5.7                                                                                                      |
+| Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking%20labhhc/lab01-theory_softwares.ipynb) | Theoretical concepts, Install software                         |    Miniconda, Obabel, py3dmol, RDKit, Autodock vina 1.2.0, vina-gpu, smina, qvina2, mgltools 1.5.7                                                                                                      |
+| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking%20labhhc/lab02-preparation.ipynb) | Molecular docking pipeline, redocking analysis, interactions extraction                         |    Miniconda, Obabel, py3dmol, RDKit, Autodock vina 1.2.0, vina-gpu, smina, qvina2, mgltools 1.5.7            |
+| Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking%20labhhc/lab03-pdbfixer.ipynb) |  PDBfixer for missing residues handling                         |    Miniconda, Obabel, py3dmol, RDKit, Autodock vina 1.2.0, vina-gpu, smina, qvina2, mgltools 1.5.7            |
+
+                                                                                                  |
+
 
 
