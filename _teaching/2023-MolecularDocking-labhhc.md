@@ -8,8 +8,10 @@ date: 2023-06-02
 location: "City, Country"
 ---
 
-This is a set of two (2+) tutorials on basic information of molecular docking incoporating python framework, using the **Google Colab** free cloud-computing environment in **Fall 2022**.
+This is a set of two (4) tutorials on basic information of molecular docking incoporating python framework, using the **Google Colab** free cloud-computing environment in **Summer 2023**.
+Please download the presentation [here](https://tieulongphan.github.io/files/docking_slide.pdf). Or you can read the [Vietnamse document](https://tieulongphan.github.io/files/docking_vn.pdf).
 
+<a href="https://tieulongphan.github.io/files/docking_slide.pdf"><img src="/images/dock.png" target="_blank" alt="thesis slide" class="center" style="width:500px"></a>
 
 
 ## Introduction
