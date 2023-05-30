@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "The-Chuong TRINH"
   avatar           : "Avatar.jpeg"
-  bio              : "MS. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
+  bio              : "Pharmacy Degree – Pharmacy Care Major; Specilize in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
   location         : "Ho Chi Minh city"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tieu-long-phan-b225331a5/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3532-2064"
+  linkedin         : #"https://www.linkedin.com/in/tieu-long-phan-b225331a5/"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-3532-2064"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
