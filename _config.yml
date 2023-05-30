@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tieu Long Phan"
+title                    : "The-Chuong TRINH"
 title_separator          : "-"
-name                     : &name "Tieu Long Phan"
+name                     : &name "The-Chuong TRINH"
 description              : &description "personal description"
-url                      : https://TieuLongPhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thechuongtrinh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TieuLongPhan/TieuLongPhan.github.io"
+repository               : "thechuongtrinh/thechuongtrinhg.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tieu Long Phan"
+  name             : "The-Chuong TRINH"
   avatar           : "Avatar.jpeg"
   bio              : "MS. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
   location         : "Ho Chi Minh city"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ptlong8995@gmail.com"
+  email            : "thechuong123@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TieuLongPhan"
+  github           : "thechuongtrinh"
   google_plus      :
   keybase          :
   instagram        :
