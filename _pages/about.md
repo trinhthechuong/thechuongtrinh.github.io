@@ -11,20 +11,20 @@ redirect_from:
 
 Personal information
 ======
-I am Tieu Long Phan, a Master's graduate student in the Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City. My research interests are applying machine learning and deep learning techniques to solving challenging problems in pharmaceutical chemistry, drug discovery, and computational chemistry. This is my blog, where I store my projects and some fundamental code for my research.
+I am The-Chuong TRINH, a pharmacy student in the Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City. My research interests are applying machine learning and deep learning techniques to solving challenging problems in pharmaceutical chemistry, drug discovery, and cheminformatics. This is a place where I store my projects and some fundamental code during my research.
 
 
 Research interests
 ======
 My primary research interests involve:  
 - Development of Quantitative Structure-Activity Relationships (QSAR) models using machine learning algorithms
+- Develop a Deep learning models (ANN, CNN, GNN) indentifying a potential lead compound. 
 - Computer-aided drug design methodologies developement
-- Molecular representation based on background model from unlabeled data
+- Synthesis of biologically active molecules
 
-My research focuses on three main problems in drug discovery:
-1. **Molecular representation**: how can we use unlabeled data (more than billions) to make features more generalizable? How can we vectorize steroisomerism information (conformation and ensemble conformation) from graph data?
-2. **Generative molecules**: given a target (protein) and database of active-inactive molecules, how can we generate agonists/antagonists?
-3. **Retrosynthesis strategy**: given a set of compounds and conditions, which compounds could be synthesized, and what is the probability of this reaction?
+My research focuses on these main problems in drug discovery:
+1. **Generative molecules**: given a target (protein) and database of active-inactive molecules, how can we generate agonists/antagonists?
+2. **Retrosynthesis strategy**: given a set of compounds and conditions, which compounds could be synthesized, and what is the probability of this reaction?
 
 
 Our team - MedAI
