@@ -81,7 +81,7 @@ Skills
 
 Language
 ======
-* **English**: Full Professional Proficiency - [IELTS 7.5](https://drive.google.com/file/d/1d2aqC8APbJ23sUbGRZcFqbQITQIocAvm/view?usp=share_link)
+* **English**: Full Professional Proficiency - [IELTS 7.5](https://github.com/TieuLongPhan/TieuLongPhan.github.io/blob/master/files/IELTS%20CERTIFICATE.pdf)
 * **Japanese**: Professional Working Proficiency - JPLT N3
 
 Course
