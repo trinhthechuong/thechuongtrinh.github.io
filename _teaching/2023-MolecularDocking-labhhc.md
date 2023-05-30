@@ -40,7 +40,6 @@ The following is a brief description of each tutorial, along with the open-sourc
 | Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking%20labhhc/lab02-preparation.ipynb) | Molecular docking pipeline, redocking analysis, interactions extraction                         |    Miniconda, Obabel, py3dmol, RDKit, Autodock vina 1.2.0, vina-gpu, smina, qvina2, mgltools 1.5.7            |
 | Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking%20labhhc/lab03-pdbfixer.ipynb) |  PDBfixer for missing residues handling                         |    Condacolab, openmm, pdbfixer, py3dmol, rdkit            |
 | Lab.04 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TieuLongPhan/TieuLongPhan.github.io/blob/master/_teaching/Material/Molecular%20Docking%20labhhc/lab04-Advance_docking.ipynb) |  Advanced docking with smina: whole protein docking, flexible docking and reverse docking                         |    Miniconda, Obabel, py3dmol, RDKit, smina,  mgltools 1.5.7            |
-
-
+| Homology [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) |  Alphafold2                         |    Alphafold2            |
 
 
