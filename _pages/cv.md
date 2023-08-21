@@ -14,7 +14,7 @@ Education
 * 2015-2018: Nguyen Binh Khiem High school for the gifted - Mathematics class.
 * 2018-2023: Pharmacy Degree – Pharmacy Care Major, University of Medicine and Pharmacy at Ho Chi Minh city.
   * GPA: 3.16/4.0 - top 3% of ranking (15/450)
-  * Thesis: Benchmarking machine learning models: Feed forward neural network, 3D image-based convolutional neural network, and graph neural network targeting *Anaplastic Lymphoma Kinase* protein
+  * Thesis: Benchmarking machine learning models: Feed forward neural network, 3D image-based convolutional neural network, and graph neural network targeting *Anaplastic Lymphoma Kinase* protein.
 * 2023+: Msc. in Pharmacy, Univerisity of Grenoble Alpes.
 
 Research experience
