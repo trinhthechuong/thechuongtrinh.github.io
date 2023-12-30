@@ -81,6 +81,7 @@ Language
 ======
 * **English**: Advanced level
 * **French**: Basic level
+
 Course
 ======
 1. Python for developers - VTC Academy
