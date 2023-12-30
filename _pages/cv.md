@@ -21,11 +21,11 @@ Education
 Research experience
 ======
 * **Sep 2023 - Aug 2024: MASTER INTERNSHIP**
-  * **Supervisor: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.**](https://www.researchgate.net/profile/Ahcene-Boumendjel)
+  * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.**](https://www.researchgate.net/profile/Ahcene-Boumendjel)
   * In addition to my background in Cheminformatics, I have had the opportunity to explore the impact of AI in healthcare projects, including causal inference and longitudinal data analysis. I've been fortunate to work on the analysis of multi-omics datasets, which encompass metabolomics, transcriptomics, modeling of biological networks, genomics, and epigenomics. Moreover, I've had the privilege of gaining insights into innovative strategies for discovering new drug candidates, with a special emphasis on antibiotics.
   * **Master thesis**: Leveraging sophisticated molecular modeling tools, including Artificial Intelligence, the project focuses on proposing innovative drug candidates targeting either GPX4 for anticancer applications or the Cdr1 transporter for antifungal agents.
 * **2018 - Aug 2023:LAB ASSISTANT – CORE MEMBER OF MED-AI LABORATORY, DEPARTMENT OF ORGANIC CHEMISTRY**
-  * **Supervisor: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
+  * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * I honed my skills in various methodologies, including QSAR, Molecular Docking, and Molecular Clus- tering. My primary focus was developing a systematic cheminformatics pipeline for drug discovery experiments in the Med-AI laboratory.
   * **Graduation thesis**:  Development and integration of advanced Artificial intelligence including ma- chine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**).
   * **Methodology development**
@@ -43,14 +43,16 @@ Research experience
   * **Associate of Organic Synthesis projects**
     * Synthesis of curcumin analogs containing 1H-pyrazoles heterocycle from 3-nitrophenylhydrazine
     * Synthesis, biological activity evaluations of some 6-methyl-1H-benzimidazole derivatives. 
-  * **Publicatios**
-    * ”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)
-    * ”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(First author, Under-review)
-    * ”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
-    * ”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
-    * ”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)
-    * ”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)
-    * ”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)
+
+Publications
+=======
+  * ”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)
+  * ”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(First author, Under-review)
+  * ”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
+  * ”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
+  * ”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)
+  * ”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)
+  * ”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)
   
 
 Honours and Awards
