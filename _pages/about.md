@@ -21,10 +21,6 @@ My primary research interests involve:
 - Drug Discovery – Identification of lead compounds
 - Cheminformatics, Bioinformatics
 - Application Machine learning / Deep learning in Drug Discovery
-- Synthesis of biologically active molecules
-
-- Development of Quantitative Structure-Activity Relationships (QSAR) models using machine learning algorithms
-- Develop a Deep learning models (ANN, CNN, GNN) indentifying a potential lead compound. 
 - Computer-aided drug design methodologies developement
 - Synthesis of biologically active molecules
 

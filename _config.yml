@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "The-Chuong TRINH"
   avatar           : "Avatar.jpeg"
-  bio              : "Pharmacy Degree – Pharmacy Care Major; Specilize in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
+  bio              : "A Master's student pursuing a degree in BioHealth Engineering and Pharmacy, with a strong passion for Computer-Aided Drug Discovery, Cheminformatics, and Bioinformatics, and expertise in Machine Learning/Deep Learning methodologies."
   location         : "Ho Chi Minh city"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -90,7 +90,7 @@ author:
   email            : "thechuong123@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  linkedIn         : "https://www.linkedin.com/in/the-chuong-trinh-712945205/"
   codepen          :
   dribbble         :
   flickr           :
