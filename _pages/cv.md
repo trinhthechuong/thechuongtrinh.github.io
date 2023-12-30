@@ -39,7 +39,6 @@ Research experience
     * *PD-1/PD-L1:* immune checkpoint: Similarity comparison among MACCs, ECFP4 and RDK5; similarity searching
     * *VEGFR-2:* QSAR model development integrated into JT-VAE network for molecules optimization.
     * *Tubulin:* Leveraging multiple molecular docking tools to study the Colchicine Binding Site
-    * *Apelin*  Pharmacophore modeling, artificial neural network studies in quantitative structure-activity relationships of small molecules targeting Apelin receptor
   * **Associate of Organic Synthesis projects**
     * Synthesis of curcumin analogs containing 1H-pyrazoles heterocycle from 3-nitrophenylhydrazine
     * Synthesis, biological activity evaluations of some 6-methyl-1H-benzimidazole derivatives. 
@@ -47,12 +46,12 @@ Research experience
 Publications
 =======
   * ”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)
-  * ”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(First author, Under-review)
+  * ”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)
   * ”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
   * ”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
   * ”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)
   * ”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)
-  * ”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)
+  * [”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)](../_publications/2022-07-01-HIV-ML-VJP.md)
   
 
 Honours and Awards
