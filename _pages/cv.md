@@ -46,11 +46,11 @@ Research experience
 Publications
 =======
   * [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](../_publications/KSE_GNN.md)
-  * ”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)
-  * ”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
-  * ”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
-  * ”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)
-  * ”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)
+  * [”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)](../_publications/SR_ALK.md)
+  * [”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1al7QVsPKpIe9PiewK3uC8_IO_H4BKgga/view?usp=drive_link)
+  * [”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1RncTTvPSVA2X5M1hy-rkN6rs9OrFpxxq/view?usp=drive_link)
+  * [”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)](https://drive.google.com/file/d/1ucNXF3coehtwGV1cWxNiNI1QDZ9-tDyC/view?usp=drive_link)
+  * [”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)](https://sciforum.net/manuscripts/15790/slides.pdf)
   * [”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)](../_publications/2022-07-01-HIV-ML-VJP.md)
   
 

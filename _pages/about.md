@@ -25,8 +25,8 @@ My primary research interests involve:
 - Synthesis of biologically active molecules
 
 My research focuses on these main problems in drug discovery:
-1. **Identifying drug candidate**: given a target (protein) and database of active-inactive molecules, how can we filter the most potentital candidates ?
-2. **Developing CADD methodologies**: creating and developing techniques and tools for Computer-Aided Drug Discovery 
+1. **Identifying drug candidate**: given a target (protein) and database of active-inactive molecules, how can we filter the most potentital candidates?
+2. **Developing CADD methodologies**: creating and developing techniques and tools for Computer-Aided Drug Discovery. 
 3. **Generative molecules**: given a target (protein) and database of active-inactive molecules, how can we generate and design agonists/antagonists?
 4. **Retrosynthesis strategy**: given a set of compounds and conditions, which compounds could be synthesized, and what is the probability of this reaction?
 
