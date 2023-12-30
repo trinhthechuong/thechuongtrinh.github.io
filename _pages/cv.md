@@ -45,7 +45,7 @@ Research experience
 
 Publications
 =======
-  * ”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)
+  * [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](../_publications/KSE_GNN.md)
   * ”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)
   * ”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
   * ”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)
