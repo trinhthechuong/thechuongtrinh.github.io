@@ -1,6 +1,6 @@
 ---
 title: "MolUtil"
-excerpt: "This is a repository containing useful functions for cheminformatics tasks <br/><img src='/images/MolUtil/Util.jpg' width='800' class='center'>"
+excerpt: " MolUtil is an automated pipeline for molecular standardization, featurization into molecular descriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization <br/><img src='/images/MolUtil/Util.jpg' width='800' class='center'>"
 collection: portfolio
 ---
 

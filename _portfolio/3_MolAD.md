@@ -1,6 +1,6 @@
 ---
 title: "MolAD"
-excerpt: "This is a repository to identify applicability domain of QSAR model <br/><img src='/images/MolAD/AD.jpg' width='800' class='center'>"
+excerpt: " MolAD helps identify the applicability domain of QSAR models using PCA or MDS dimension reduction with the convex hull. <br/><img src='/images/MolAD/AD.jpg' width='800' class='center'>"
 collection: portfolio
 ---
 # QSAR Model Applicability Domain Determination
@@ -15,13 +15,13 @@ This repository explores advanced methodologies for determining the applicabilit
 
 In the first approach, molecular fingerprints undergo precise dimension reduction through Principal Component Analysis (PCA), resulting in a streamlined 2-dimensional representation. Subsequently, these observations are meticulously visualized on a plane, and a Convex Hull algorithm is applied to precisely delineate the confidence region.
 
-![PCA Approach Example](../images/MolAD/pca_convex_hull.png "PCA Approach Example")
+![PCA Approach Example](/images/MolAD/pca_convex_hull.png "PCA Approach Example")
 
 ### Approach 2: Tanimoto Similarity Matrix, MDS and Convex Hull
 
 The second approach commences by calculating a Tanimoto similarity matrix, meticulously pairing molecules from both the training dataset (m molecules) and screening dataset (n molecules). This intricate process results in a (m+n) x (m+n) matrix. Following this, dimension reduction to 2 dimensions is applied to the matrix through state-of-the-art MDS algorithms. The resulting observations are meticulously plotted on a plane, and akin to the first approach, a Convex Hull algorithm is employed for precise delineation of the confident region.
 
-![Tanimoto Similarity Matrix and MDS Example](../images/MolAD/convexhull_similarity.png "Tanimoto Similarity Matrix and MDS Example")
+![Tanimoto Similarity Matrix and MDS Example](/images/MolAD/convexhull_similarity.png "Tanimoto Similarity Matrix and MDS Example")
 
 ## Instructions
 

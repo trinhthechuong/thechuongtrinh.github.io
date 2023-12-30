@@ -1,6 +1,6 @@
 ---
 title: "Statistical_test"
-excerpt: "This is a repository to for automated docking score extraction and validation from different softwares <br/><img src='/images/Statistical_test/Statistical_test.png' width='800' class='center'>"
+excerpt: "Statistical test improves decision-making in comparing machine learning models’ performance by implementing statistical tests, including Bayesian estimation and the Wilcoxon signed-rank test <br/><img src='/images/Statistical_test/Statistical_test.png' width='800' class='center'>"
 collection: portfolio
 ---
 
