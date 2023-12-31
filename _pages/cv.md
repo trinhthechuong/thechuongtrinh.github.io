@@ -23,10 +23,10 @@ RESEARCH EXPERIENCE
   * **Master thesis**: Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
 * **2018 - Aug 2023: Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
   * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
-  * **Graduation thesis**:  Development and integration of advanced Artificial intelligence including ma- chine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**).
+  * [**Graduation thesis**](https://trinhthechuong.github.io/project/1_iALK_insilico/): Development and integration of advanced Artificial intelligence including ma- chine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**).
     * Employing data-centric machine learning methodologies to ascertain the most effective molecular representation.
     * Executing an Artificial Neural Network model that leverages the identified optimal molecular rep- resentation.
-    * Conducting an Ensemble-Graph Neural Network utilizing the Pytorch Geometric library. This advanced model harnesses the power of graph-based data structures.
+    * [Conducting an Ensemble-Graph Neural Network utilizing the Pytorch Geometric library. This advanced model harnesses the power of graph-based data structures.](https://trinhthechuong.github.io/project/2_iALK_GNN/)
     * Integrating consensus docking models, including Autodock-GPU, Vina-GPU-2.0, GNINA, and the XGBoost algorithm.
     * Combining the aforementioned AI models to formulate a comprehensive and meticulous funnel. This integrated system is designed to efficiently filter and identify potential ALK inhibitors, showcasing the synergy of diverse AI techniques in drug discovery.
   * **Cheminformatics tools development**
