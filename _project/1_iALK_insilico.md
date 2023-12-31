@@ -11,19 +11,20 @@ This study addresses the urgent need for new Anaplastic lymphoma kinase (ALK) in
 ## Method and Results
 The raw dataset consists of 26.168 substances tested for their ALK receptor inhibitory potential, collected from the Reaxys database. The study successfully utilized 1.664 substances to construct and evaluate a series of ALK inhibitor classification models.
 - Employing data-centric **machine learning** methodologies to ascertain the most effective molecular representation.
-<a href="https://trinhthechuong.github.io/images/Thesis/QSAR.png"><img src="/images/Thesis/QSAR.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+<a href="https://trinhthechuong.github.io/images/Thesis/QSAR.png"><img src="/images/Thesis/QSAR.png" target="_blank" alt="QSAR" class="center" style="width:700px"></a>
 
 - Executing an Artificial Neural Network model that leverages the identified optimal molecular representation. 
-<a href="https://trinhthechuong.github.io/images/Thesis/ANN_process.png"><img src="/images/Thesis/ANN_process.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+<a href="https://trinhthechuong.github.io/images/Thesis/ANN_process.png"><img src="/images/Thesis/ANN_process.png" target="_blank" alt="ANN_process" class="center" style="width:700px"></a>
 - Integrating consensus docking models, including Autodock-GPU, Vina-GPU-2.0, GNINA, and XGBoost algorithm.
-<a href="https://trinhthechuong.github.io/images/Thesis/Consensus_docking.png"><img src="/images/Thesis/Consensus_docking.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+<a href="https://trinhthechuong.github.io/images/Thesis/Consensus_docking.png"><img src="/images/Thesis/Consensus_docking.png" target="_blank" alt="Consensus_docking" class="center" style="width:700px"></a>
 
 - These AI models were employed in conjunction with a consensus docking model to screen a total of 120,571 compounds virtually, leading to the identification of three promising ALK inhibitors: **CHEMBL1689515, CHEMBL2380351, and CHEMBL102714**.
-<a href="https://trinhthechuong.github.io/images/Thesis/Candidates.png"><img src="/images/Thesis/Candidates.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+<a href="https://trinhthechuong.github.io/images/Thesis/Candidates.png"><img src="/images/Thesis/Candidates.png" target="_blank" alt="Candidates" class="center" style="width:700px"></a>
 
 ## Thesis slide
 For more detailed information, please visit the slides from my dissertation presentation [here](https://trinhthechuong.github.io/files/thesis_slide.pdf).
 <a href="https://trinhthechuong.github.io/files/thesis_slide.pdf"><img src="/images/Thesis/Summary_SR.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+
 ## Requirements
 
 This module requires the following modules:

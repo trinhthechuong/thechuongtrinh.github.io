@@ -1,6 +1,6 @@
 ---
 title: "In silico modeling for prediction of potential HIV integrase inhibitors "
-excerpt: "This is a repository containing Tieu Long Phan master thesis <br/><img src='/images/Thesis/thesis.jpg'>"
+excerpt: "This is a repository containing Tieu Long Phan master thesis <br/><img src='/images/HIV/AFPS.png'>"
 collection: project
 ---
 
@@ -19,7 +19,7 @@ The project contains four parts:
 - QSAR (Classification and regression tasks): develop full data pipeline and statistical test
 - Molecular docking: using five docking softwares to perform retrospective control
 
-<a href="https://tieulongphan.github.io/files/thesis_slide.pdf"><img src="/images/Thesis/thesis_slide.jpg" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+<a href="https://tieulongphan.github.io/files/thesis_slide.pdf"><img src="/images/HIV/thesis_slide.jpg" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
 
 ## Requirements
 
@@ -28,10 +28,6 @@ This module requires the following modules:
 - [RDkit](https://www.rdkit.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
-
-
-## Note
-Updating...
 
 ## Folder segmentation
 
