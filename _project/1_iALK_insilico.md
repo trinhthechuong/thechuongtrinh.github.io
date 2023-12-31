@@ -22,8 +22,8 @@ The raw dataset consists of 26.168 substances tested for their ALK receptor inhi
 <a href="https://trinhthechuong.github.io/images/Thesis/Candidates.png"><img src="/images/Thesis/Candidates.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
 
 ## Thesis slide
-For more detailed information, please visit the slides from my dissertation presentation [here](https://tieulongphan.github.io/files/thesis_slide.pdf).
-<a href="https://tieulongphan.github.io/files/thesis_slide.pdf"><img src="/images/Thesis/Summary_SR.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+For more detailed information, please visit the slides from my dissertation presentation [here](https://trinhthechuong.github.io/files/thesis_slide.pdf).
+<a href="https://trinhthechuong.github.io/files/thesis_slide.pdf"><img src="/images/Thesis/Summary_SR.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
 ## Requirements
 
 This module requires the following modules:
