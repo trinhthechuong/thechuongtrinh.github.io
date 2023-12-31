@@ -9,44 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
+* 2023+: [Msc. BioHealth Engineering](https://trinhthechuong.github.io/files/Scolarité.pdf), Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
+* 2018-2023: [Bachelor of Pharmacy](https://trinhthechuong.github.io/files/Pharmacy_Diploma.pdf), Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
+  * [GPA](https://trinhthechuong.github.io/files/transcript.pdf): 3.30/4.0 - **top 3%** of ranking - **Very good** classification
 * 2015-2018: Nguyen Binh Khiem High school for the gifted - Mathematics class.
-* 2018-2023: Bachelor of Pharmacy, Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
-  * GPA: 3.30/4.0 - **top 3%** of ranking - **Very good** classification
-  * Thesis: Development and integration of advanced Artificial intelligence including machine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**)
-* 2023+: Msc. BioHealth Engineering, Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
-  * Thesis: Leveraging sophisticated molecular modeling tools, including Artificial Intelligence, the project focuses on proposing innovative drug candidates targeting either GPX4 for anticancer applications or the Cdr1 transporter for antifungal agents.
 
-Research experience
+RESEARCH EXPERIENCE
 ======
-* **Sep 2023 - Aug 2024: MASTER INTERNSHIP**
+* **Jan 2024 - Present: Master Internship**
   * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
-  * In addition to my background in Cheminformatics, I have had the opportunity to explore the impact of AI in healthcare projects, including causal inference and longitudinal data analysis. I've been fortunate to work on the analysis of multi-omics datasets, which encompass metabolomics, transcriptomics, modeling of biological networks, genomics, and epigenomics. Moreover, I've had the privilege of gaining insights into innovative strategies for discovering new drug candidates, with a special emphasis on antibiotics.
-  * **Master thesis**: Leveraging sophisticated molecular modeling tools, including Artificial Intelligence, the project focuses on proposing innovative drug candidates targeting either GPX4 for anticancer applications or the Cdr1 transporter for antifungal agents.
-* **2018 - Aug 2023: LAB ASSISTANT – CORE MEMBER OF MED-AI LABORATORY, DEPARTMENT OF ORGANIC CHEMISTRY**
+  * **Master thesis**: Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
+* **2018 - Aug 2023: Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
   * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
-  * I honed my skills in various methodologies, including QSAR, Molecular Docking, and Molecular Clus- tering. My primary focus was developing a systematic cheminformatics pipeline for drug discovery experiments in the Med-AI laboratory.
   * **Graduation thesis**:  Development and integration of advanced Artificial intelligence including ma- chine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**).
-  * **Methodology development**
-    * *[MolUtil](https://github.com/TieuLongPhan/MolUtil)*: MolUtil is an automated pipeline for molecular standardization, featurization into molecular descriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization.
-    * *[Mlqsar](https://github.com/TieuLongPhan/mlqsar)*: Mlqsar is an automated pipeline QSAR with a data-centric benchmark by meta-analysis through multiple machine learning models.
-    * *[MolAD](https://github.com/trinhthechuong/Applicability-domain)*: MolAD helps identify the applicability domain of molecules using PCA or MDS dimension reduction with the convex hull.
-    * *[Statistical_test](https://github.com/trinhthechuong/Compared_performane)*: Statistical test improves decision-making in comparing machine learning mod- els’ performance by implementing rigorous statistical tests, including Bayesian estimation and the Wilcoxon signed-rank test.
-  * **Associate of Computational Drug Discovery projects**
+    * Employing data-centric machine learning methodologies to ascertain the most effective molecular representation.
+    * Executing an Artificial Neural Network model that leverages the identified optimal molecular rep- resentation.
+    * Conducting an Ensemble-Graph Neural Network utilizing the Pytorch Geometric library. This advanced model harnesses the power of graph-based data structures.
+    * Integrating consensus docking models, including Autodock-GPU, Vina-GPU-2.0, GNINA, and the XGBoost algorithm.
+    * Combining the aforementioned AI models to formulate a comprehensive and meticulous funnel. This integrated system is designed to efficiently filter and identify potential ALK inhibitors, showcasing the synergy of diverse AI techniques in drug discovery.
+  * **Cheminformatics tools development**
+    * [MolUtil](https://github.com/TieuLongPhan/MolUtil) is an automated pipeline for molecular standardization, featurization into molecular de- scriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization.
+    * [Mlqsar](https://github.com/TieuLongPhan/mlqsar) is a comprehensive automated QSAR workflow facilitating benchmark analysis and data category selection via rigorous statistical evaluation.
+    * [MolAD](https://github.com/trinhthechuong/Applicability-domain) helps identify the applicability domain of QSAR models using PCA or MDS dimension reduction with the convex hull.
+    * [Statistical_test](https://github.com/trinhthechuong/Compared_performane) improves decision-making in comparing machine learning models’ performance by implementing statistical tests, including Bayesian estimation and the Wilcoxon signed-rank test.
+
+  * **Implementation of AI in Drug Discovery projects**
     * *[HIV-1 integrase](https://github.com/TieuLongPhan/HIV_IN_QSAR)*: QSAR pipeline for data type selection and model building
     * *SGLT2i*: Comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold 
     * *PD-1/PD-L1:* immune checkpoint: Similarity comparison among MACCs, ECFP4 and RDK5; similarity searching
     * *VEGFR-2:* QSAR model development integrated into JT-VAE network for molecules optimization.
     * *Tubulin:* Leveraging multiple molecular docking tools to study the Colchicine Binding Site
-  * **Associate of Organic Synthesis projects**
-    * Synthesis of curcumin analogs containing 1H-pyrazoles heterocycle from 3-nitrophenylhydrazine
-    * Synthesis, biological activity evaluations of some 6-methyl-1H-benzimidazole derivatives. 
+  * **Organic Synthesis projects**
+    * Synthesis of curcumin analogs containing 1*H*-pyrazoles heterocycle from 3-nitrophenylhydrazine
+    * Synthesis, biological activity evaluations of some 6-methyl-1*H*-benzimidazole derivatives. 
 
-Publications
+PUBLICATIONS
 =======
-  * [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](../_publications/KSE_GNN.md)
-  * [”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)](../_publications/SR_ALK.md)
+  * [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](https://ieeexplore.ieee.org/abstract/document/10299477)
+  * [”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)](../_proẹct/1_iALK_insilico.md)
   * [”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1al7QVsPKpIe9PiewK3uC8_IO_H4BKgga/view?usp=drive_link)
   * [”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1RncTTvPSVA2X5M1hy-rkN6rs9OrFpxxq/view?usp=drive_link)
   * [”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)](https://drive.google.com/file/d/1ucNXF3coehtwGV1cWxNiNI1QDZ9-tDyC/view?usp=drive_link)
@@ -54,7 +56,7 @@ Publications
   * [”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)](../_publications/2022-07-01-HIV-ML-VJP.md)
   
 
-Honours and Awards
+SELECTED HONORS AND AWARDS
 =====
 * Chemistry, Biology, and Health (CBH) Graduate School Grenoble Alpes University Scholarship.
 * Certificate of outstanding contribution to Activities of The Vietnamese Student Association and the Youth Union.
@@ -66,55 +68,43 @@ Honours and Awards
 * Certificate of class excellent in Australian National Chemistry Quiz
 * Entrance Valedictorian of Nguyen Binh Khiem High School for the gifted.
 
-Skills
+SKILLS
 ======
-* **Programming Languages**: Python, R, OOP.
-* **Code management tools**: Git, Linux, Automated pipeline for HealthCare Projects.
-* **Cheminformatics**: RDKit, DeepChem, Pymol, MOE, Autodock, Vina, GNINA, ChemDraw, Basic multi-Omics understanding and analysis.
+* **Programming Languages**: Python, R.
+* **Code management tools**: Git, Linux, OOP, Automated pipeline for HealthCare Projects.
+* **Cheminformatics**: RDKit, DeepChem, Pymol, MOE, Autodock, Vina, GNINA, ChemDraw.
+* **Bioinformatics**: Multi-Omics analysis.
 * **Machine learning/Deep learning**: Scikit-Learn, Imblearn, XGBoost, CatBoost, Pytorch, Pytorch Geometry, TensorFlow.
 * **Data analysis**:  Statistic, Causal inference, Propensity score, Data visualization (Seaborn, Mat- plotlib).
 * **Organic synthesis**: Basic organic synthesis, TLC, columns chromatography.
 * **Personal skill**: Problem solving, crictical thinking, communication
 
-Language
+LANGUAGES
 ======
 * **English**: Advanced level
 * **French**: Basic level
 
-Course
+COURSES
 ======
 1. Python for developers - VTC Academy
 2. AI specialist and machine enygineer - VTC Academy
 
-Extracurricular Activities
+EXTRACURRICULAR ACTIVITIES
 =====
 * Vice President of the Organizing Committee of the Sports Festival, Sep 2020 – Dec 2020 
 * The Organizing Committee of the Connection Ceremony, Jun 2019 – Sep 2019
 * Head of Human Resources department of Pharmacy English Club, 2019 – 2021
 
-Working Experiences
-======
-* **MASTER INTERNSHIP, Jan 2024 - Present**
-  * RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.
-* **LAB ASSISTANT, 2018 - Aug 2023**
-  * Department of Organic Chemistry, Faculty of Pharmacy, UMP.
-* **ORGAMIC CHEMISTRY TEACHING ASSISTANT, 20213 - Present. HEALTHCARE FACILITY INTERNSHIP, Sep 2022 - Oct 2022**
-  * Gia Dinh Hospital, 01 No Trang Long St, Binh Thanh District, Ho Chi Minh city.
-  * Working as a clinical pharmacists: examining the prescriptions, consulting and instructing patients and contributing to the development of the Drug Information System.
-* **PHARMACEUTICAL FACTORY INTERNSHIP , Aug 2022**
-  * TIPHARCO Pharmaceutical Joint - Stock Company, Tien Giang province
-  * Working in accordance with the Good Manufacturing Practice (GMP) and participating in the practice of Quality Control and Quality Assurance Department.
 
-
-References
+REFERENCES
 ======
 * [**Prof. Achène BOUMENDJEL, PhD**](https://www.researchgate.net/profile/Ahcene-Boumendjel)
   * Position: RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.
   * Email: [Ahcene.Boumendjel@univ-grenoble-alpes.fr](mailto:Ahcene.Boumendjel@univ-grenoble-alpes.fr)
   
 
-* [**Assoc. Prof. Viet-Khoa Tran-Nguyen, PhDD**](https://www.researchgate.net/profile/Viet-Khoa-Tran-Nguyen)
-  * Position:Assistant Professor about Cheminformatics and Bioinformatics, Universit ́e Paris Cit ́e.
+* [**Assoc. Prof. Viet-Khoa Tran-Nguyen, PhD**](https://www.researchgate.net/profile/Viet-Khoa-Tran-Nguyen)
+  * Position:Assistant Professor about Cheminformatics and Bioinformatics, Université Paris Cité.
   * Email: [viet-khoa.tran-Nguyen@u-paris.fr](mailto:viet-khoa.tran-Nguyen@u-paris.fr)
   
 
