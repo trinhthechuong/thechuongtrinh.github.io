@@ -52,13 +52,13 @@ RESEARCH EXPERIENCE
 
 PUBLICATIONS
 =======
-  1. [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](https://ieeexplore.ieee.org/abstract/document/10299477)
-  2. [”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)](../_proẹct/1_iALK_insilico.md)
-  3. [”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1al7QVsPKpIe9PiewK3uC8_IO_H4BKgga/view?usp=drive_link)
-  4.[”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1RncTTvPSVA2X5M1hy-rkN6rs9OrFpxxq/view?usp=drive_link)
-  5. [”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)](https://drive.google.com/file/d/1ucNXF3coehtwGV1cWxNiNI1QDZ9-tDyC/view?usp=drive_link)
-  6. [”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)](https://sciforum.net/manuscripts/15790/slides.pdf)
-  7. [”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)](../_publications/2022-07-01-HIV-ML-VJP.md)
+  1. [**The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong et al. A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models. In *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Proceedings of KSE 2023*, October 18-20, 2023; IEEE Xplore, 2023; pp 1-6. DOI: 10.1109/KSE59128.2023.10299477.](https://ieeexplore.ieee.org/abstract/document/10299477)
+  2. [**The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong, et al. Synergy of advanced machine learning and deep neural networks with consensus molecular docking for enhanced potency prediction of ALK inhibitors. *Scientific Reports* **2023**. (**Under review**)](https://github.com/trinhthechuong/ML-ANN-GNN-for-Screening-potential-iALKs)
+  3. [Tuyet-Minh Phan, Thao-Linh Song-Nguyen, **The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong, et al. Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors. In *Asian Federation for Pharmaceutical Conference 2023, AFPS Conference 2023 Program Book*, Hanoi, Vietnam, Novemver 8-10, 2023; The Asian Federation for Pharmaceutical Sciences, 2023; pp 158-159.](https://trinhthechuong.github.io/files/HIV_AFPS.pdf)
+  4. [Gia-Bao Truong, Tieu-Long Phan, **The-Chuong Trinh**, Hoang-Son Lai-Le, Tuyen Ngoc Truong, et al. Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder. In *Asian Federation for Pharmaceutical Conference 2023, AFPS Conference 2023 Program Book*, Hanoi, Vietnam, Novemver 8-10, 2023; The Asian Federation for Pharmaceutical Sciences, 2023; pp 326-327.](https://trinhthechuong.github.io/files/VEGFR-2_AFPS.jpg)
+  5. [Hoang-Son Lai-Le, Tieu-Long Phan, Gia-Bao Truong, **The-Chuong Trinh**, Tuyen Ngoc Truong, et al. New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site. In *Asian Federation for Pharmaceutical Conference 2023, AFPS Conference 2023 Program Book*, Hanoi, Vietnam, Novemver 8-10, 2023; The Asian Federation for Pharmaceutical Sciences, 2023; pp 367-368.](https://trinhthechuong.github.io/files/Tubulin_AFPS.png)
+  6. [Van-Thinh To, Bao-Vy Doan Ngoc, **The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong, et al. Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening. In *the 9th International Electronic Conference on Medicinal Chemistry*, November 1-30, 2023; MDPI:  Basel, Switzerland.](https://sciforum.net/manuscripts/15790/slides.pdf)
+  7. [Tieu-Long Phan, Xuan-Truc Tran Dinh, **The-Chuong Trinh**, Qui-Hien Nguyen, Tuyen Ngoc Truong, et al. Application of  machine learning in virtual screening of HIV integrase inhibitors. *Vietnam Journal of Medicine and Pharmacy*, **2022**, 52, 26-35.](https://tieulongphan.github.io/files/2.%20Application%20of%20machine%20learning%20in%20virtual%20screening%20of%20HIV%20-%20Vietnam%20Pharmacy%20Journal.pdf)
   
 
 SELECTED HONORS AND AWARDS
@@ -77,11 +77,11 @@ SKILLS
 ======
 * **Programming Languages**: Python, R.
 * **Code management tools**: Git, Linux, OOP, Automated pipeline for HealthCare Projects.
-* **Cheminformatics**: RDKit, DeepChem, Pymol, MOE, Autodock, Vina, GNINA, ChemDraw.
+* **Cheminformatics**: RDKit 2023.09.03, DeepChem 2.7.1, Pymol 2.5, MOE 2015.10, Autodock-GPU 1.5.3, Vina-GPU 2.0, GNINA 1.0, ChemDraw.
 * **Bioinformatics**: Multi-Omics analysis.
-* **Machine learning/Deep learning**: Scikit-Learn, Imblearn, XGBoost, CatBoost, Pytorch, Pytorch Geometry, TensorFlow.
+* **Machine learning/Deep learning**: Scikit-learn 1.2.2, Imblearn 0.11.0, XGBoost 2.0.3, CatBoost 1.2.2, Pytorch 2.0, Pytorch Geometry 2.4.0, TensorFlow 2.0, Optuna 3.2.0.
 * **Data analysis**:  Statistic, Causal inference, Propensity score, Data visualization (Seaborn, Mat- plotlib).
-* **Organic synthesis**: Basic organic synthesis, TLC, columns chromatography.
+* **Organic synthesis**: Basic organic synthesis, TLC, Columns chromatography.
 * **Personal skill**: Problem solving, crictical thinking, communication
 
 LANGUAGES
@@ -96,9 +96,9 @@ COURSES
 
 EXTRACURRICULAR ACTIVITIES
 =====
-* Vice President of the Organizing Committee of the Sports Festival, Sep 2020 – Dec 2020 
-* The Organizing Committee of the Connection Ceremony, Jun 2019 – Sep 2019
-* Head of Human Resources department of Pharmacy English Club, 2019 – 2021
+* *Sep 2020 - Dec 2020*: Vice President of the Organizing Committee of the Sports Festival.
+* *Jun 2019 - Sep 2019*: The Organizing Committee of the Connection Ceremony.
+* *2019 - 2021*: Head of Human Resources department of Pharmacy English Club.
 
 
 REFERENCES
@@ -107,7 +107,10 @@ REFERENCES
   * Position: RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.
   * Email: [Ahcene.Boumendjel@univ-grenoble-alpes.fr](mailto:Ahcene.Boumendjel@univ-grenoble-alpes.fr)
   
-
+* [**Assoc. Prof. Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
+  * Position: Head of the Department of Organic Chemistry, Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city.
+  * Emal: [truongtuyen@ump.edu.vn](mailto:truongtuyen@ump.edu.vn)
+  
 * [**Assoc. Prof. Viet-Khoa Tran-Nguyen, PhD**](https://www.researchgate.net/profile/Viet-Khoa-Tran-Nguyen)
   * Position:Assistant Professor about Cheminformatics and Bioinformatics, Université Paris Cité.
   * Email: [viet-khoa.tran-Nguyen@u-paris.fr](mailto:viet-khoa.tran-Nguyen@u-paris.fr)
