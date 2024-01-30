@@ -23,41 +23,42 @@ RESEARCH EXPERIENCE
 ======
 * **Master Internship**
   * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
-  * **
-  * Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
-* **2018 - Aug 2023: Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
+  * *Jan 2024 - present*: **Master thesis**
+    * Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
+* **Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
   * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
-  * [**Graduation thesis**](https://trinhthechuong.github.io/project/1_iALK_insilico/): Development and integration of advanced Artificial intelligence including ma- chine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**).
+  * *Jan 2023 - Aug 2023*: [**Graduation thesis**](https://trinhthechuong.github.io/project/1_iALK_insilico/) (**Mark: 9.9/10.0**).
+    * Development and integration of advanced Artificial Intelligence (AI) including Machine Learning, Artificial Neural Network (ANN), GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase (ALK) inhibitors.
     * Employing data-centric machine learning methodologies to ascertain the most effective molecular representation.
-    * Executing an Artificial Neural Network model that leverages the identified optimal molecular rep- resentation.
-    * [Conducting an Ensemble-Graph Neural Network utilizing the Pytorch Geometric library. This advanced model harnesses the power of graph-based data structures.](https://trinhthechuong.github.io/project/2_iALK_GNN/)
-    * Integrating consensus docking models, including Autodock-GPU, Vina-GPU-2.0, GNINA, and the XGBoost algorithm.
+    * Executing an ANN model that leverages the identified optimal molecular representation.
+    * [Conducting an Ensemble-GNN utilizing the Pytorch Geometric and DeepChem library. This ad- vanced model harnesses the power of graph-based data structures.](https://trinhthechuong.github.io/project/2_iALK_GNN/)
+    * Integrating consensus docking models, including Autodock-GPU 1.5.3, Vina-GPU-2.0, GNINA 1.0, and XGBoost algorithm.
     * Combining the aforementioned AI models to formulate a comprehensive and meticulous funnel. This integrated system is designed to efficiently filter and identify potential ALK inhibitors, showcasing the synergy of diverse AI techniques in drug discovery.
-  * **Cheminformatics tools development**
-    * [MolUtil](https://github.com/TieuLongPhan/MolUtil) is an automated pipeline for molecular standardization, featurization into molecular de- scriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization.
+  * *Jan 2021 - Aug 2023*: **Cheminformatics tools development**
+    * [MolUtil](https://github.com/TieuLongPhan/MolUtil)is an automated pipeline for molecular standardization, featurization into molecular descriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization.
     * [Mlqsar](https://github.com/TieuLongPhan/mlqsar) is a comprehensive automated QSAR workflow facilitating benchmark analysis and data category selection via rigorous statistical evaluation.
-    * [MolAD](https://github.com/trinhthechuong/Applicability-domain) helps identify the applicability domain of QSAR models using PCA or MDS dimension reduction with the convex hull.
+    * [MolAD](https://github.com/trinhthechuong/Applicability-domain) helps identify the applicability domain of QSAR models using Principal Components Analysis (PCA) and Multi Dimensional Scaling (MDS) for dimension reduction with the convex hull.
     * [Statistical_test](https://github.com/trinhthechuong/Compared_performane) improves decision-making in comparing machine learning models’ performance by implementing statistical tests, including Bayesian estimation and the Wilcoxon signed-rank test.
 
-  * **Implementation of AI in Drug Discovery projects**
-    * *[HIV-1 integrase](https://github.com/TieuLongPhan/HIV_IN_QSAR)*: QSAR pipeline for data type selection and model building
-    * *SGLT2i*: Comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold 
-    * *PD-1/PD-L1:* immune checkpoint: Similarity comparison among MACCs, ECFP4 and RDK5; similarity searching
-    * *VEGFR-2:* QSAR model development integrated into JT-VAE network for molecules optimization.
-    * *Tubulin:* Leveraging multiple molecular docking tools to study the Colchicine Binding Site
-  * **Organic Synthesis projects**
+  * *Jan 2021 - Aug 2023*: **Implementation of AI in Drug Discovery projects**
+    * [**HIV-1 integrase**](https://github.com/TieuLongPhan/HIV_IN_QSAR)*: QSAR pipeline for data type selection and model building.
+    * **SGLT2i**: Comparison between MACCs and ECFP4 in QSAR model, pharmacophore optimization by query threshold.
+    * **PD-1/PD-L1 immune checkpoint**: Similarity comparison among MACCs, ECFP4 and RDK5; similarity searching.
+    * **VEGFR-2**: QSAR model development integrated into Junction Tree Variational Autoencoder (JT-VAE) network for molecules optimization.
+    * *Tubulin:* Leveraging multiple molecular docking tools to study the Colchicine Binding Site.
+  * *2018-2019*: **Organic Synthesis projects**
     * Synthesis of curcumin analogs containing 1*H*-pyrazoles heterocycle from 3-nitrophenylhydrazine
     * Synthesis, biological activity evaluations of some 6-methyl-1*H*-benzimidazole derivatives. 
 
 PUBLICATIONS
 =======
-  * [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](https://ieeexplore.ieee.org/abstract/document/10299477)
-  * [”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)](../_proẹct/1_iALK_insilico.md)
-  * [”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1al7QVsPKpIe9PiewK3uC8_IO_H4BKgga/view?usp=drive_link)
-  * [”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1RncTTvPSVA2X5M1hy-rkN6rs9OrFpxxq/view?usp=drive_link)
-  * [”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)](https://drive.google.com/file/d/1ucNXF3coehtwGV1cWxNiNI1QDZ9-tDyC/view?usp=drive_link)
-  * [”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)](https://sciforum.net/manuscripts/15790/slides.pdf)
-  * [”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)](../_publications/2022-07-01-HIV-ML-VJP.md)
+  1. [”A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models,” *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Hanoi, Vietnam, 2023, pp. 1-6, IEEE*, doi: 10.1109/KSE59128.2023.10299477. (**First author, IEEE Proceedings**)](https://ieeexplore.ieee.org/abstract/document/10299477)
+  2. [”Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,” *Scientific Reports*, 2023.(**First author, Under-review**)](../_proẹct/1_iALK_insilico.md)
+  3. [”Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1al7QVsPKpIe9PiewK3uC8_IO_H4BKgga/view?usp=drive_link)
+  4.[”Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder,” *AFPS Asian Pharmaceutical Sciences Conference 2023*.(**Co-author**)](https://drive.google.com/file/d/1RncTTvPSVA2X5M1hy-rkN6rs9OrFpxxq/view?usp=drive_link)
+  5. [”New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site,” *AFPS Asian Pharmaceutical Sciences Conference 2023*. (**Co-author**)](https://drive.google.com/file/d/1ucNXF3coehtwGV1cWxNiNI1QDZ9-tDyC/view?usp=drive_link)
+  6. [”Application of Molecular Similarity and Artificial Neural Networks for PD-L1 inhibitors Virtual Screening,” *Proceedings of the 9th International Electronic Conference on Medicinal Chemistry, 1–30 November 2023, MDPI: Basel, Switzerland*. (**Co-author**)](https://sciforum.net/manuscripts/15790/slides.pdf)
+  7. [”Application of machine learning in virtual screening of HIV integrase inhibitors,” *Vietnam Journal of Medicine and Pharmacy*.(**Co-author**)](../_publications/2022-07-01-HIV-ML-VJP.md)
   
 
 SELECTED HONORS AND AWARDS
