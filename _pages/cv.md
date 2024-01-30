@@ -35,7 +35,7 @@ RESEARCH EXPERIENCE
     * Integrating consensus docking models, including Autodock-GPU 1.5.3, Vina-GPU-2.0, GNINA 1.0, and XGBoost algorithm.
     * Combining the aforementioned AI models to formulate a comprehensive and meticulous funnel. This integrated system is designed to efficiently filter and identify potential ALK inhibitors, showcasing the synergy of diverse AI techniques in drug discovery.
   * *Jan 2021 - Aug 2023*: **Cheminformatics tools development**
-    * [MolUtil](https://github.com/TieuLongPhan/MolUtil)is an automated pipeline for molecular standardization, featurization into molecular descriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization.
+    * [MolUtil](https://github.com/TieuLongPhan/MolUtil) is an automated pipeline for molecular standardization, featurization into molecular descriptors and fingerprints, medicinal chemistry filtration, and chemical space visualization.
     * [Mlqsar](https://github.com/TieuLongPhan/mlqsar) is a comprehensive automated QSAR workflow facilitating benchmark analysis and data category selection via rigorous statistical evaluation.
     * [MolAD](https://github.com/trinhthechuong/Applicability-domain) helps identify the applicability domain of QSAR models using Principal Components Analysis (PCA) and Multi Dimensional Scaling (MDS) for dimension reduction with the convex hull.
     * [Statistical_test](https://github.com/trinhthechuong/Compared_performane) improves decision-making in comparing machine learning models’ performance by implementing statistical tests, including Bayesian estimation and the Wilcoxon signed-rank test.
@@ -110,7 +110,7 @@ REFERENCES
 * [**Assoc. Prof. Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * Position: Head of the Department of Organic Chemistry, Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city.
   * Emal: [truongtuyen@ump.edu.vn](mailto:truongtuyen@ump.edu.vn)
-  
+
 * [**Assoc. Prof. Viet-Khoa Tran-Nguyen, PhD**](https://www.researchgate.net/profile/Viet-Khoa-Tran-Nguyen)
   * Position:Assistant Professor about Cheminformatics and Bioinformatics, Université Paris Cité.
   * Email: [viet-khoa.tran-Nguyen@u-paris.fr](mailto:viet-khoa.tran-Nguyen@u-paris.fr)
