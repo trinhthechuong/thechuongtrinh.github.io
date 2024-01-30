@@ -12,10 +12,10 @@ redirect_from:
 EDUCATION
 ======
 * **Sep 2023 - Aug 2024** 
-  * [Msc. BioHealth Engineering](https://trinhthechuong.github.io/files/Scolarité.pdf)
+  * [Msc. BioHealth Engineering](https://trinhthechuong.github.io/files/Scolarite.pdf)
   * Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
 * **Aug 2018- Aug 2023** 
-  * [Bachelor of Pharmacy](https://trinhthechuong.github.io/files/Pharmacy.pdf)
+  * [Bachelor of Pharmacy](https://trinhthechuong.github.io/files/Phamarcy.pdf)
   * Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
   * [GPA](https://trinhthechuong.github.io/files/transcript.pdf): 3.30/4.0 - **top 3%** of ranking - **Very good** classification
 * **2015-2018**
@@ -25,7 +25,7 @@ RESEARCH EXPERIENCE
 ======
 * **Jan 2024 - Present: Master Internship**
   * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
-  * **Master thesis**: Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
+  * Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
 * **2018 - Aug 2023: Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
   * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * [**Graduation thesis**](https://trinhthechuong.github.io/project/1_iALK_insilico/): Development and integration of advanced Artificial intelligence including ma- chine learning, ANN, GNN in conjunction with consensus molecular docking for the prediction of potent Anaplastic Lymphoma Kinase inhibitors (Mark: **9.9/10.0**).
