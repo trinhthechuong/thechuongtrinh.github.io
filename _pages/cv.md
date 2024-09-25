@@ -13,7 +13,8 @@ EDUCATION
 ======
 * *Sep 2023 - Aug 2024*: [**Msc. BioHealth Engineering**](https://trinhthechuong.github.io/files/Scolarite.pdf)
   * Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
-* *Aug 2018- Aug 2023*: [**Bachelor of Pharmacy**](https://trinhthechuong.github.io/files/Phamarcy.pdf)
+  * [GPA (1<sup>st</sup> semester)](https://trinhthechuong.github.io/files/master_transcript.pdf): 17.19/20 - **top 2** of ranking - **Very good** classification
+* *Aug 2018- Aug 2023*: [**Bachelor of Pharmacy**](https://trinhthechuong.github.io/files/Pharmarcy_diploma.pdf)
   * Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
   * [GPA](https://trinhthechuong.github.io/files/transcript.pdf): 3.30/4.0 - **top 3%** of ranking - **Very good** classification
 * *2015-2018*: **Nguyen Binh Khiem High school for the gifted**
@@ -23,8 +24,16 @@ RESEARCH EXPERIENCE
 ======
 * **Master Internship**
   * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
-  * *Jan 2024 - present*: **Master thesis**
-    * Exploring Cutting-Edge Molecular Modeling and Deep Generative Models to Develop Novel Drug Candidates for Anticancer and Antifungal Therapies, Targeting GPX4 and the Cdr1 Transporter.
+  * **Co-supervisor**: [Asst. Prof. Viet-Khoa Tran-Nguyen, PhD, Université Paris Cité, CNRS UMR8251, INSERM U1133, F-75013 Paris, France](https://www.researchgate.net/profile/Viet-Khoa-Tran-Nguyen)
+  * *Jan 2024 - July 2024*: [**Master thesis**](https://trinhthechuong.github.io/files/Master_thesis_slide.pdf)
+    * Exploring cutting-edge molecular modeling and deep learning models to develop novel drug candidates antifungal therapies, targeting the Cdr1 transporter.
+    * Harnessing the power of 3D-Graph Neural Networks (3D-GNN) trained on multiple conformations, specifically utilizing advanced techniques like Message Passing Neural Network (MPNN) or Graph Attention Network (GAT). This enables the encoding of complex molecular structures, and extraction of local chemistry information, contributing to a comprehensive understanding of the compounds under investigation.
+    * Integrating multiple ligand-based structural representation conjugating multi-instance 3D-GNN to create a robust ensemble classification model.
+    * Identifying the most promising candidates through computational analyses, which will be synthesized and rigorously tested using bioassays.
+    * HuggingFace demo: [EMCIP: An Ensemble Model for Cdr1 Inhibitor Prediction](https://huggingface.co/spaces/thechuongtrinh/EMCIP_Cdr1_inhibitor_prediction)
+* **Visiting Researcher**
+  * *Aug 2024 - Present*: [Visiting reseacher](https://trinhthechuong.github.io/files/invitation_Leipzig.pdf) at Bioinformatics Laboratory, University of Leipzig, Germany
+    * Collaborating with PhD(c) Tieu-Long Phan on topics related to the ITN project entitled Training Alliance for Computational systems chemistry – TACsy. 
 * **Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
   * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * *Jan 2023 - Aug 2023*: [**Graduation thesis**](https://trinhthechuong.github.io/project/1_iALK_insilico/) (**Mark: 9.9/10.0**).
