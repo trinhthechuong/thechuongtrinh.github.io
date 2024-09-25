@@ -7,13 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  .justified-text {
-    text-align: justify;
-  }
-</style>
-
-<div class="justified-text">
 
 Personal information
 ======
@@ -34,8 +27,6 @@ My research focuses on these main problems in drug discovery:
 2. **Developing AIDD methodologies**: Creating and advancing techniques and tools for AIDD.
 3. **Omics data**: Developing Pharmacogenomics AI models to leverage omics data for drug discovery.
 4. **Reaction modeling**: Given a set of compounds and conditions, which compounds could be synthesized, and what is the likelihood of this reaction?
-</div>
-
 
 
 
