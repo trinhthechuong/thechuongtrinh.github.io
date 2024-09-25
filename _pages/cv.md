@@ -23,7 +23,7 @@ Education
 Research Experience
 ======
 * **Master Internship**
-  * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
+  * **Supervisor**: [Prof. Achène Boumendjel, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
   * **Co-supervisor**: [Asst. Prof. Viet-Khoa Tran-Nguyen, PhD, Université Paris Cité, CNRS UMR8251, INSERM U1133, F-75013 Paris, France](https://www.researchgate.net/profile/Viet-Khoa-Tran-Nguyen)
   * *Jan 2024 - July 2024*: [**Master thesis**](https://trinhthechuong.github.io/files/Master_thesis_slide.pdf)
     * Exploring cutting-edge molecular modeling and deep learning models to develop novel drug candidates antifungal therapies, targeting the Cdr1 transporter.
@@ -32,8 +32,8 @@ Research Experience
     * Identifying the most promising candidates through computational analyses, which will be synthesized and rigorously tested using bioassays.
     * HuggingFace demo: [EMCIP: An Ensemble Model for Cdr1 Inhibitor Prediction](https://huggingface.co/spaces/thechuongtrinh/EMCIP_Cdr1_inhibitor_prediction)
 * **Visiting Researcher**
-  * *Aug 2024 - Present*: [Visiting reseacher](https://trinhthechuong.github.io/files/invitation_Leipzig.pdf) at Bioinformatics Laboratory, University of Leipzig, Germany
-    * Collaborating with PhD(c) Tieu-Long Phan on topics related to the ITN project entitled Training Alliance for Computational systems chemistry – TACsy. 
+  * *Aug 2024 - Present*: [Visiting researcher](https://trinhthechuong.github.io/files/invitation_Leipzig.pdf) at the Bioinformatics Laboratory, University of Leipzig, Germany
+    * Collaborating with PhD(c). Tieu-Long Phan on topics related to the ITN project entitled Training Alliance for Computational systems chemistry – TACsy. 
 * **Lab assistant - Core member of MedAI laboratory, Department of Organic Chemistry, Faculty of Pharmacy, UMP**
   * **Supervisor**: [Assoc. Prof. Truong Ngoc Tuyen, PhD, Head of Department of Organic Chemistry, Faculty of Pharmacy.](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * *Jan 2023 - Aug 2023*: [**Graduation thesis**](https://trinhthechuong.github.io/project/1_iALK_insilico/) (**Mark: 9.9/10.0**).
