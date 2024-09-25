@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum vitae"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+Education
 ======
 * *Sep 2023 - Aug 2024*: [**Msc. BioHealth Engineering**](https://trinhthechuong.github.io/files/Scolarite.pdf)
   * Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
@@ -20,7 +20,7 @@ EDUCATION
 * *2015-2018*: **Nguyen Binh Khiem High school for the gifted**
   * Mathematics class
 
-RESEARCH EXPERIENCE
+Research Experience
 ======
 * **Master Internship**
   * **Supervisor**: [Prof. Achène BOUMENDJEL, PhD, RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.](https://www.researchgate.net/profile/Ahcene-Boumendjel)
@@ -59,7 +59,7 @@ RESEARCH EXPERIENCE
     * Synthesis of curcumin analogs containing 1*H*-pyrazoles heterocycle from 3-nitrophenylhydrazine
     * Synthesis, biological activity evaluations of some 6-methyl-1*H*-benzimidazole derivatives. 
 
-PUBLICATIONS
+Publications and Conferences
 =======
   1. [**The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong et al. A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models. In *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Proceedings of KSE 2023*, October 18-20, 2023; IEEE Xplore, 2023; pp 1-6. DOI: 10.1109/KSE59128.2023.10299477.](https://ieeexplore.ieee.org/abstract/document/10299477)
   2. [**The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong, et al. Synergy of advanced machine learning and deep neural networks with consensus molecular docking for enhanced potency prediction of ALK inhibitors. *Scientific Reports* **2023**. (**Under review**)](https://github.com/trinhthechuong/ML-ANN-GNN-for-Screening-potential-iALKs)
@@ -70,7 +70,7 @@ PUBLICATIONS
   7. [Tieu-Long Phan, Xuan-Truc Tran Dinh, **The-Chuong Trinh**, Qui-Hien Nguyen, Tuyen Ngoc Truong, et al. Application of  machine learning in virtual screening of HIV integrase inhibitors. *Vietnam Journal of Medicine and Pharmacy*, **2022**, 52, 26-35.](https://tieulongphan.github.io/files/2.%20Application%20of%20machine%20learning%20in%20virtual%20screening%20of%20HIV%20-%20Vietnam%20Pharmacy%20Journal.pdf)
   
 
-SELECTED HONORS AND AWARDS
+Selected Honors and Awards
 =====
 * Chemistry, Biology, and Health (CBH) Graduate School Grenoble Alpes University Scholarship.
 * Certificate of outstanding contribution to Activities of The Vietnamese Student Association and the Youth Union.
@@ -82,7 +82,7 @@ SELECTED HONORS AND AWARDS
 * Certificate of class excellent in Australian National Chemistry Quiz
 * Entrance Valedictorian of Nguyen Binh Khiem High School for the gifted.
 
-SKILLS
+Skills
 ======
 * **Programming Languages**: Python, R.
 * **Code management tools**: Git, Linux, OOP, Automated pipeline for HealthCare Projects.
@@ -93,24 +93,25 @@ SKILLS
 * **Organic synthesis**: Basic organic synthesis, TLC, Columns chromatography.
 * **Personal skill**: Problem solving, crictical thinking, communication
 
-LANGUAGES
+Languages
 ======
+* **Vietnamese**: Native language
 * **English**: Advanced level
 * **French**: Basic level
 
-COURSES
+Courses
 ======
 1. Python for developers - VTC Academy
 2. AI specialist and machine enygineer - VTC Academy
 
-EXTRACURRICULAR ACTIVITIES
+Extracurricular Activities
 =====
 * *Sep 2020 - Dec 2020*: Vice President of the Organizing Committee of the Sports Festival.
 * *Jun 2019 - Sep 2019*: The Organizing Committee of the Connection Ceremony.
 * *2019 - 2021*: Head of Human Resources department of Pharmacy English Club.
 
 
-REFERENCES
+References
 ======
 * [**Prof. Achène BOUMENDJEL, PhD**](https://www.researchgate.net/profile/Ahcene-Boumendjel)
   * Position: RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.
