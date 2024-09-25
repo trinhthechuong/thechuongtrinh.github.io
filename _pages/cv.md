@@ -14,7 +14,7 @@ Education
 * *Sep 2023 - Aug 2024*: [**Msc. BioHealth Engineering**](https://trinhthechuong.github.io/files/Attestation_de_reussite.pdf)
   * Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
   * [GPA (1<sup>st</sup> semester)](https://trinhthechuong.github.io/files/master_transcript.pdf): 17.19/20 - **top 2** of ranking - **Very good** classification
-* *Aug 2018- Aug 2023*: [**Bachelor of Pharmacy**](https://trinhthechuong.github.io/files/Pharmacy_diploma.pdf)
+* *Aug 2018- Aug 2023*: [**Pharmacy Degree**](https://trinhthechuong.github.io/files/Pharmacy.pdf)
   * Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
   * [GPA](https://trinhthechuong.github.io/files/transcript.pdf): 3.30/4.0 - **top 3%** of ranking - **Very good** classification
 * *2015-2018*: **Nguyen Binh Khiem High school for the gifted**
@@ -61,8 +61,10 @@ Research Experience
 
 Publications and Conferences
 =======
+  * **Publications**
   1. [**The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong et al. A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models. In *2023 15th International Conference on Knowledge and Systems Engineering (KSE), Proceedings of KSE 2023*, October 18-20, 2023; IEEE Xplore, 2023; pp 1-6. DOI: 10.1109/KSE59128.2023.10299477.](https://ieeexplore.ieee.org/abstract/document/10299477)
   2. [**The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong, et al. Synergy of advanced machine learning and deep neural networks with consensus molecular docking for enhanced potency prediction of ALK inhibitors. *Scientific Reports* **2023**. (**Under review**)](https://github.com/trinhthechuong/ML-ANN-GNN-for-Screening-potential-iALKs)
+  * **Conferences**
   3. [Tuyet-Minh Phan, Thao-Linh Song-Nguyen, **The-Chuong Trinh**, Tieu-Long Phan, Tuyen Ngoc Truong, et al. Development of a Machine Learning Model for the Synthesis and Molecular Docking Study of HIV Integrase Inhibitors. In *Asian Federation for Pharmaceutical Conference 2023, AFPS Conference 2023 Program Book*, Hanoi, Vietnam, Novemver 8-10, 2023; The Asian Federation for Pharmaceutical Sciences, 2023; pp 158-159.](https://trinhthechuong.github.io/files/HIV_AFPS.pdf)
   4. [Gia-Bao Truong, Tieu-Long Phan, **The-Chuong Trinh**, Hoang-Son Lai-Le, Tuyen Ngoc Truong, et al. Innovative Exploration of VEGFR-2 Inhibitors in Chemical Space with Gradient Ascent and Junction Tree Variational Autoencoder. In *Asian Federation for Pharmaceutical Conference 2023, AFPS Conference 2023 Program Book*, Hanoi, Vietnam, Novemver 8-10, 2023; The Asian Federation for Pharmaceutical Sciences, 2023; pp 326-327.](https://trinhthechuong.github.io/files/VEGFR-2_AFPS.jpg)
   5. [Hoang-Son Lai-Le, Tieu-Long Phan, Gia-Bao Truong, **The-Chuong Trinh**, Tuyen Ngoc Truong, et al. New Thorough Molecular Docking Approach: A Virtual Screening Study Targeting the Colchicine Binding Site. In *Asian Federation for Pharmaceutical Conference 2023, AFPS Conference 2023 Program Book*, Hanoi, Vietnam, Novemver 8-10, 2023; The Asian Federation for Pharmaceutical Sciences, 2023; pp 367-368.](https://trinhthechuong.github.io/files/Tubulin_AFPS.png)
