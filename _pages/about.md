@@ -7,30 +7,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  .justified-text {
+    text-align: justify;
+  }
+</style>
 
+<div class="justified-text">
 
-Personal information
+## Personal information
 ======
-A dedicated Master’s student at Grenoble Alpes University, I am actively seeking a Ph.D. position in the dynamic fields of advanced machine learning for innovative drug discovery (AIDD), cheminformatics, bioinformatics, and precision medicine. My research interests are **lead compound identification and optimization, cheminformatics tool developments, generative molecules, precision medicine, and retrosynthesis strategy**. Eager to contribute my skills and knowledge to cutting-edge research, I am poised to embark on the next phase of my academic journey.
+An 18-year-old lad with a Pharmacy degree and a Master's in BioHealth Engineering, I am now pursuing a PhD in Bioinformatics. Three words that describe me—compassionate, confident, and conscientious—all align with the first letter of my name. Eager to apply my skills and knowledge to cutting-edge research, I am poised to embark on the next phase of my academic journey.
 
 
-Research interests
+
+## Research interests
 ======
 My primary research interests involve:
-- Advanced Machine Learning for Innovative Drug Discovery (AIDD) 
+- Advanced Machine Learning for Innovative Drug Discovery (AIDD)
 - Drug Discovery – Identification and Optimization of lead compounds
-- Cheminformatics, Bioinformatics
-- Precision medicine
-- Synthesis of biologically active molecules
+- Application Artificial Intelligence for OneHealth, Multi-omics
+- Cheminformatics and Bioinformatics 
 
 My research focuses on these main problems in drug discovery:
-1. **Identification and optimzation drug candidate**: given a target (protein) and database of active-inactive molecules, how can we discover and design the most potentital candidates?
-2. **Developing AIDD methodologies**: creating and developing techniques and tools for AIDD. 
-3. **Generative molecules**: given a target (protein) and database of active-inactive molecules, how can we generate and design agonists/antagonists?
-4. **Retrosynthesis strategy**: given a set of compounds and conditions, which compounds could be synthesized, and what is the probability of this reaction?
-
-
-
+1. **Identification and optimization of drug candidates**: How can we discover and design the most promising candidates given a target (protein) and a database of active and inactive molecules?
+2. **Developing AIDD methodologies**: Creating and advancing techniques and tools for AIDD.
+3. **Omics data**: Developing Pharmacogenomics AI models to leverage omics data for drug discovery.
+4. **Reaction modeling**: Given a set of compounds and conditions, which compounds could be synthesized, and what is the likelihood of this reaction?
+</div>
 
 
 
