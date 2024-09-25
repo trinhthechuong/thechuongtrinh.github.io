@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* *Sep 2023 - Aug 2024*: [**Msc. BioHealth Engineering**](https://trinhthechuong.github.io/files/Scolarite.pdf)
+* *Sep 2023 - Aug 2024*: [**Msc. BioHealth Engineering**](https://trinhthechuong.github.io/files/Attestation_de_reussite.pdf)
   * Faculty of Medicine and Pharmacy – Grenoble Alpes University, France
   * [GPA (1<sup>st</sup> semester)](https://trinhthechuong.github.io/files/master_transcript.pdf): 17.19/20 - **top 2** of ranking - **Very good** classification
-* *Aug 2018- Aug 2023*: [**Bachelor of Pharmacy**](https://trinhthechuong.github.io/files/Pharmarcy_diploma.pdf)
+* *Aug 2018- Aug 2023*: [**Bachelor of Pharmacy**](https://trinhthechuong.github.io/files/Pharmacy_diploma.pdf)
   * Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city, Vietnam
   * [GPA](https://trinhthechuong.github.io/files/transcript.pdf): 3.30/4.0 - **top 3%** of ranking - **Very good** classification
 * *2015-2018*: **Nguyen Binh Khiem High school for the gifted**
