@@ -109,7 +109,8 @@ Courses
 1. Python for developers - VTC Academy
 2. AI specialist and machine enygineer - VTC Academy
 3. Computational medicine summer school - European Scientific Institute, Archamps, France
-4. Cheminformatics summer school - University of Strasbourg, Strasbourg, France 
+4. Cheminformatics summer school - University of Strasbourg, Strasbourg, France
+ 
 Extracurricular Activities
 =====
 * *Sep 2020 - Dec 2020*: Vice President of the Organizing Committee of the Sports Festival.
