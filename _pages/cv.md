@@ -108,7 +108,8 @@ Courses
 ======
 1. Python for developers - VTC Academy
 2. AI specialist and machine enygineer - VTC Academy
-
+3. Computational medicine summer school - European Scientific Institute, Archamps, France
+4. Cheminformatics summer school - University of Strasbourg, Strasbourg, France 
 Extracurricular Activities
 =====
 * *Sep 2020 - Dec 2020*: Vice President of the Organizing Committee of the Sports Festival.
@@ -118,7 +119,7 @@ Extracurricular Activities
 
 References
 ======
-* [**Prof. Achène BOUMENDJEL, PhD**](https://www.researchgate.net/profile/Ahcene-Boumendjel)
+* [**Prof. Achène Boumendjel, PhD**](https://www.researchgate.net/profile/Ahcene-Boumendjel)
   * Position: RadioPharmaceutiques Bioclinique Laboratory (LRB), UGA, Inserm U1039.
   * Email: [Ahcene.Boumendjel@univ-grenoble-alpes.fr](mailto:Ahcene.Boumendjel@univ-grenoble-alpes.fr)
   
